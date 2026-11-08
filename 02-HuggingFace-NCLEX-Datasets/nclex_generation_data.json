@@ -1,0 +1,402 @@
+[
+    {
+        "input": "Scenario: A patient with pneumonia, Item Type: Multiple Choice",
+        "output": "Stem: A nurse is caring for a patient with pneumonia. What is the priority nursing intervention?\nA) Administer antibiotics as prescribed\nB) Encourage bed rest without repositioning\nC) Administer a bronchodilator\nD) Restrict fluid intake\nCorrect Answer: A) Administer antibiotics as prescribed\nRationale: Antibiotics treat the bacterial cause of pneumonia, making it the priority."
+    },
+    {
+        "input": "Scenario: A patient with type 2 diabetes, Item Type: Multiple Choice",
+        "output": "Stem: A nurse is teaching a patient with type 2 diabetes about diet. Which food should the patient limit?\nA) Whole grains\nB) Sugary desserts\nC) Lean proteins\nD) Non-starchy vegetables\nCorrect Answer: B) Sugary desserts\nRationale: Sugary foods raise blood glucose rapidly, which is harmful in diabetes management."
+    },
+    {
+        "input": "Scenario: A postoperative patient, Item Type: Multiple Choice",
+        "output": "Stem: A nurse is monitoring a postoperative patient. Which finding indicates a potential complication?\nA) Clear lung sounds\nB) Temperature of 38.5°C (101.3°F)\nC) Urine output of 50 mL/hr\nD) Pain rating of 2/10\nCorrect Answer: B) Temperature of 38.5°C (101.3°F)\nRationale: Fever may signal infection, a common postoperative complication."
+    },
+    {
+        "input": "Scenario: A child with asthma, Item Type: Multiple Choice",
+        "output": "Stem: A nurse is caring for a child with an asthma exacerbation. What is the first action?\nA) Administer a bronchodilator\nB) Start oxygen therapy\nC) Teach pursed-lip breathing\nD) Obtain a chest X-ray\nCorrect Answer: A) Administer a bronchodilator\nRationale: Bronchodilators relieve acute airway constriction in asthma."
+    },
+    {
+        "input": "Scenario: A patient with hypertension, Item Type: Multiple Choice",
+        "output": "Stem: A nurse is caring for a patient with hypertension. What should the nurse monitor most closely?\nA) Blood pressure\nB) Respiratory rate\nC) Temperature\nD) Urine output\nCorrect Answer: A) Blood pressure\nRationale: Hypertension is defined by elevated blood pressure, making it the primary focus."
+    },
+    {
+        "input": "Scenario: A patient with a stroke, Item Type: Multiple Choice",
+        "output": "Stem: A nurse is assessing a patient with a recent stroke. Which finding indicates a need for immediate intervention?\nA) Unequal pupil size\nB) Blood pressure of 130/80 mmHg\nC) Speech that is slightly slurred\nD) Weakness on one side\nCorrect Answer: A) Unequal pupil size\nRationale: Unequal pupils may indicate increased intracranial pressure, a critical complication."
+    },
+    {
+        "input": "Scenario: A patient with COPD, Item Type: Multiple Choice",
+        "output": "Stem: A nurse is caring for a patient with COPD. Which oxygen delivery method is most appropriate?\nA) High-flow mask at 10 L/min\nB) Nasal cannula at 2 L/min\nC) Non-rebreather mask\nD) Venturi mask at 40% FiO2\nCorrect Answer: B) Nasal cannula at 2 L/min\nRationale: Low-flow oxygen prevents CO2 retention in COPD patients."
+    },
+    {
+        "input": "Scenario: A pregnant woman in labor, Item Type: Multiple Choice",
+        "output": "Stem: A nurse is monitoring a woman in labor. Which finding requires immediate reporting?\nA) Fetal heart rate of 110 bpm\nB) Contractions every 5 minutes\nC) Fetal heart rate of 90 bpm\nD) Maternal BP of 120/80 mmHg\nCorrect Answer: C) Fetal heart rate of 90 bpm\nRationale: A rate below 110 bpm may indicate fetal distress."
+    },
+    {
+        "input": "Scenario: A patient with renal failure, Item Type: Multiple Choice",
+        "output": "Stem: A nurse is caring for a patient with renal failure. Which electrolyte imbalance should the nurse monitor?\nA) Hypokalemia\nB) Hyperkalemia\nC) Hyponatremia\nD) Hypocalcemia\nCorrect Answer: B) Hyperkalemia\nRationale: Kidneys excrete potassium; failure leads to accumulation."
+    },
+    {
+        "input": "Scenario: A patient with a burn injury, Item Type: Multiple Choice",
+        "output": "Stem: A nurse is caring for a patient with a burn injury. What is the priority intervention?\nA) Apply ice to the burn\nB) Administer IV fluids\nC) Cover with a dry dressing\nD) Elevate the affected area\nCorrect Answer: B) Administer IV fluids\nRationale: Fluid resuscitation prevents hypovolemic shock in burn patients."
+    },
+    {
+        "input": "Scenario: A patient with heart failure, Item Type: Select All That Apply",
+        "output": "Stem: A nurse is assessing a patient with heart failure. Which findings should the nurse expect?\nA) Jugular vein distension\nB) Peripheral edema\nC) Bradycardia\nD) Crackles in lungs\nE) Weight loss\nCorrect Answers: A, B, D\nRationale: Heart failure causes fluid overload, leading to JVD, edema, and lung crackles."
+    },
+    {
+        "input": "Scenario: A patient with sepsis, Item Type: Select All That Apply",
+        "output": "Stem: A nurse is caring for a patient with sepsis. Which interventions should be included?\nA) Administer IV antibiotics\nB) Monitor vital signs frequently\nC) Restrict fluids\nD) Obtain blood cultures\nE) Encourage ambulation\nCorrect Answers: A, B, D\nRationale: Antibiotics, monitoring, and cultures are critical; fluid restriction and ambulation are not."
+    },
+    {
+        "input": "Scenario: A patient with diabetes mellitus, Item Type: Select All That Apply",
+        "output": "Stem: A nurse is teaching a patient with diabetes mellitus about foot care. Which instructions should be included?\nA) Inspect feet daily\nB) Use heating pads on feet\nC) Wear well-fitting shoes\nD) Soak feet in hot water\nE) Trim nails straight across\nCorrect Answers: A, C, E\nRationale: Daily inspection, proper shoes, and nail care prevent injury; heat and soaking increase risk."
+    },
+    {
+        "input": "Scenario: A patient with a head injury, Item Type: Select All That Apply",
+        "output": "Stem: A nurse is monitoring a patient with a head injury. Which signs indicate increased intracranial pressure?\nA) Widened pulse pressure\nB) Decreased level of consciousness\nC) Tachycardia\nD) Vomiting\nE) Improved motor response\nCorrect Answers: A, B, D\nRationale: Widened pulse pressure, LOC decrease, and vomiting are classic signs; tachycardia and improved response are not."
+    },
+    {
+        "input": "Scenario: A patient with an allergic reaction, Item Type: Select All That Apply",
+        "output": "Stem: A nurse is assessing a patient with an allergic reaction. Which symptoms should the nurse expect?\nA) Wheezing\nB) Hypotension\nC) Fever\nD) Hives\nE) Bradycardia\nCorrect Answers: A, B, D\nRationale: Allergic reactions cause wheezing, low BP, and hives; fever and bradycardia are unrelated."
+    },
+    {
+        "input": "Scenario: A patient with dehydration, Item Type: Select All That Apply",
+        "output": "Stem: A nurse is caring for a patient with dehydration. Which interventions should be included?\nA) Administer IV fluids\nB) Monitor electrolytes\nC) Restrict oral fluids\nD) Assess skin turgor\nE) Encourage high-sodium diet\nCorrect Answers: A, B, D\nRationale: Fluids, electrolytes, and skin assessment address dehydration; restricting fluids and sodium worsen it."
+    },
+    {
+        "input": "Scenario: A patient with a urinary tract infection, Item Type: Select All That Apply",
+        "output": "Stem: A nurse is teaching a patient with a UTI about prevention. Which strategies should be included?\nA) Increase fluid intake\nB) Wipe front to back\nC) Take antibiotics as prescribed\nD) Avoid cotton underwear\nE) Empty bladder regularly\nCorrect Answers: A, B, C, E\nRationale: These reduce bacterial growth and spread; cotton underwear is preferred, not avoided."
+    },
+    {
+        "input": "Scenario: A patient with chemotherapy, Item Type: Select All That Apply",
+        "output": "Stem: A nurse is caring for a patient receiving chemotherapy. Which side effects should the nurse monitor?\nA) Nausea\nB) Hair loss\nC) Increased appetite\nD) Fatigue\nE) Infection risk\nCorrect Answers: A, B, D, E\nRationale: Chemo causes nausea, hair loss, fatigue, and immunosuppression; appetite typically decreases."
+    },
+    {
+        "input": "Scenario: A patient with a fracture, Item Type: Select All That Apply",
+        "output": "Stem: A nurse is assessing a patient with a fracture. Which findings should the nurse report?\nA) Swelling at the site\nB) Warmth over the area\nC) Full range of motion\nD) Numbness distal to the fracture\nE) Pain with movement\nCorrect Answers: A, D, E\nRationale: Swelling, numbness, and pain suggest complications like compartment syndrome; warmth is normal, full ROM is unlikely."
+    },
+    {
+        "input": "Scenario: A patient with COPD exacerbation, Item Type: Select All That Apply",
+        "output": "Stem: A nurse is caring for a patient with a COPD exacerbation. Which interventions should be included?\nA) Administer oxygen at 2 L/min\nB) Encourage pursed-lip breathing\nC) Position in high Fowler’s\nD) Administer high-flow oxygen at 10 L/min\nE) Monitor respiratory rate\nCorrect Answers: A, B, C, E\nRationale: Low-flow oxygen, breathing techniques, positioning, and monitoring help; high-flow oxygen risks CO2 retention."
+    },
+    {
+        "input": "Scenario: A patient receiving IV fluids, Item Type: Fill-in-the-Blank",
+        "output": "Stem: A patient is receiving 1000 mL of IV fluid over 8 hours. What is the infusion rate in mL/hr?\nCorrect Answer: 125 mL/hr\nRationale: 1000 mL ÷ 8 hr = 125 mL/hr."
+    },
+    {
+        "input": "Scenario: A patient with a medication order, Item Type: Fill-in-the-Blank",
+        "output": "Stem: A patient is prescribed 0.5 mg/kg of a medication and weighs 60 kg. How many mg should the nurse administer?\nCorrect Answer: 30 mg\nRationale: 0.5 mg/kg × 60 kg = 30 mg."
+    },
+    {
+        "input": "Scenario: A patient with fluid balance, Item Type: Fill-in-the-Blank",
+        "output": "Stem: A patient’s intake is 2000 mL and output is 1500 mL over 24 hours. What is the fluid balance?\nCorrect Answer: +500 mL\nRationale: 2000 mL - 1500 mL = +500 mL."
+    },
+    {
+        "input": "Scenario: A patient with a medication dosage, Item Type: Fill-in-the-Blank",
+        "output": "Stem: A patient is ordered 1000 mg of a medication available as 250 mg per tablet. How many tablets should the nurse give?\nCorrect Answer: 4 tablets\nRationale: 1000 mg ÷ 250 mg/tablet = 4 tablets."
+    },
+    {
+        "input": "Scenario: A pediatric patient with medication, Item Type: Fill-in-the-Blank",
+        "output": "Stem: A child weighing 20 kg is prescribed 10 mg/kg of a medication. How many mg should the nurse administer?\nCorrect Answer: 200 mg\nRationale: 10 mg/kg × 20 kg = 200 mg."
+    },
+    {
+        "input": "Scenario: A patient with IV infusion, Item Type: Fill-in-the-Blank",
+        "output": "Stem: A patient receives 500 mL of IV fluid over 4 hours. What is the infusion rate in mL/hr?\nCorrect Answer: 125 mL/hr\nRationale: 500 mL ÷ 4 hr = 125 mL/hr."
+    },
+    {
+        "input": "Scenario: A patient with electrolyte replacement, Item Type: Fill-in-the-Blank",
+        "output": "Stem: A patient is ordered 40 mEq of potassium chloride in 1000 mL of fluid over 10 hours. What is the rate of potassium delivery in mEq/hr?\nCorrect Answer: 4 mEq/hr\nRationale: 40 mEq ÷ 10 hr = 4 mEq/hr."
+    },
+    {
+        "input": "Scenario: A patient with oral intake, Item Type: Fill-in-the-Blank",
+        "output": "Stem: A patient consumes 8 oz of water. How many mL did the patient drink?\nCorrect Answer: 240 mL\nRationale: 1 oz = 30 mL, so 8 oz × 30 mL/oz = 240 mL."
+    },
+    {
+        "input": "Scenario: A patient with insulin dosing, Item Type: Fill-in-the-Blank",
+        "output": "Stem: A patient is prescribed 0.1 units/kg of insulin and weighs 80 kg. How many units should the nurse administer?\nCorrect Answer: 8 units\nRationale: 0.1 units/kg × 80 kg = 8 units."
+    },
+    {
+        "input": "Scenario: A patient with wound irrigation, Item Type: Fill-in-the-Blank",
+        "output": "Stem: A nurse irrigates a wound with 300 mL of saline over 15 minutes. What is the irrigation rate in mL/min?\nCorrect Answer: 20 mL/min\nRationale: 300 mL ÷ 15 min = 20 mL/min."
+    },
+    {
+        "input": "Scenario: A patient requiring an IM injection, Item Type: Hot Spot",
+        "output": "Stem: A nurse is preparing to administer an IM injection in the deltoid. Identify the correct site on the arm.\nCorrect Answer: 2-3 fingerbreadths below the acromion process\nRationale: This site avoids the brachial artery and radial nerve."
+    },
+    {
+        "input": "Scenario: A patient needing cardiac auscultation, Item Type: Hot Spot",
+        "output": "Stem: A nurse is auscultating the apical pulse. Identify the correct chest location.\nCorrect Answer: 5th intercostal space, midclavicular line, left side\nRationale: This is the point of maximal impulse (PMI)."
+    },
+    {
+        "input": "Scenario: A patient with a peripheral pulse check, Item Type: Hot Spot",
+        "output": "Stem: A nurse is assessing the radial pulse. Identify the correct wrist location.\nCorrect Answer: Thumb side, just below the base of the thumb\nRationale: The radial artery runs along the thumb side."
+    },
+    {
+        "input": "Scenario: A patient with an abdominal assessment, Item Type: Hot Spot",
+        "output": "Stem: A nurse is assessing for liver enlargement. Identify the correct abdominal location.\nCorrect Answer: Right upper quadrant\nRationale: The liver is located in the RUQ below the diaphragm."
+    },
+    {
+        "input": "Scenario: A patient with a catheter insertion, Item Type: Hot Spot",
+        "output": "Stem: A nurse is preparing to insert a urinary catheter. Identify the correct urethral opening location.\nCorrect Answer: Between the clitoris and vaginal opening (female) or tip of the penis (male)\nRationale: This is the anatomical location of the urethra."
+    },
+    {
+        "input": "Scenario: A patient with lung auscultation, Item Type: Hot Spot",
+        "output": "Stem: A nurse is auscultating lung sounds. Identify the correct location for the lower lobes.\nCorrect Answer: Posterior chest, below the scapulae\nRationale: The lower lobes are best heard posteriorly."
+    },
+    {
+        "input": "Scenario: A patient with a pressure ulcer risk, Item Type: Hot Spot",
+        "output": "Stem: A nurse is assessing for pressure ulcer risk. Identify the correct bony prominence to check.\nCorrect Answer: Sacrum\nRationale: The sacrum is a common site for pressure ulcers in bedridden patients."
+    },
+    {
+        "input": "Scenario: A patient with an ECG lead placement, Item Type: Hot Spot",
+        "output": "Stem: A nurse is placing ECG leads. Identify the correct location for V1.\nCorrect Answer: 4th intercostal space, right sternal border\nRationale: V1 is placed here for accurate cardiac monitoring."
+    },
+    {
+        "input": "Scenario: A patient with a peripheral IV, Item Type: Hot Spot",
+        "output": "Stem: A nurse is inserting a peripheral IV. Identify the correct vein location.\nCorrect Answer: Dorsal hand or forearm\nRationale: These veins are accessible and stable for IV access."
+    },
+    {
+        "input": "Scenario: A patient with a neurological exam, Item Type: Hot Spot",
+        "output": "Stem: A nurse is testing the patellar reflex. Identify the correct location to strike.\nCorrect Answer: Just below the patella\nRationale: This elicits the knee-jerk reflex."
+    },
+    {
+        "input": "Scenario: A patient needing CPR, Item Type: Ordered Response",
+        "output": "Stem: A nurse is performing CPR on an adult. Place these steps in the correct order:\nA) Check for responsiveness\nB) Open the airway\nC) Deliver rescue breaths\nD) Begin chest compressions\nCorrect Answer: A, B, D, C\nRationale: Check, open airway, compressions, then breaths (30:2 ratio)."
+    },
+    {
+        "input": "Scenario: A patient requiring NG tube insertion, Item Type: Ordered Response",
+        "output": "Stem: A nurse is inserting an NG tube. Place these steps in order:\nA) Lubricate the tube tip\nB) Secure the tube with tape\nC) Instruct the patient to tilt head forward\nD) Verify placement with an X-ray\nCorrect Answer: C, A, B, D\nRationale: Tilt head, lubricate, secure, verify."
+    },
+    {
+        "input": "Scenario: A patient with a sterile dressing change, Item Type: Ordered Response",
+        "output": "Stem: A nurse is changing a sterile dressing. Place these steps in order:\nA) Remove old dressing\nB) Don sterile gloves\nC) Clean the wound\nD) Apply new dressing\nCorrect Answer: A, C, B, D\nRationale: Remove, clean, glove, apply."
+    },
+    {
+        "input": "Scenario: A patient with a fall, Item Type: Ordered Response",
+        "output": "Stem: A nurse responds to a patient fall. Place these actions in order:\nA) Assess for injuries\nB) Notify the healthcare provider\nC) Document the incident\nD) Assist the patient back to bed\nCorrect Answer: A, D, B, C\nRationale: Assess, assist, notify, document."
+    },
+    {
+        "input": "Scenario: A patient with hand hygiene, Item Type: Ordered Response",
+        "output": "Stem: A nurse is performing hand hygiene with soap and water. Place these steps in order:\nA) Dry hands with a paper towel\nB) Wet hands with water\nC) Rub hands for 40-60 seconds\nD) Apply soap\nCorrect Answer: B, D, C, A\nRationale: Wet, soap, rub, dry."
+    },
+    {
+        "input": "Scenario: A patient with medication administration, Item Type: Ordered Response",
+        "output": "Stem: A nurse is administering oral medication. Place these steps in order:\nA) Check the medication order\nB) Verify patient identity\nC) Administer the medication\nD) Document the administration\nCorrect Answer: A, B, C, D\nRationale: Check, verify, administer, document."
+    },
+    {
+        "input": "Scenario: A patient with suctioning, Item Type: Ordered Response",
+        "output": "Stem: A nurse is suctioning a tracheostomy. Place these steps in order:\nA) Apply suction\nB) Insert catheter\nC) Hyperoxygenate the patient\nD) Remove catheter\nCorrect Answer: C, B, A, D\nRationale: Oxygenate, insert, suction, remove."
+    },
+    {
+        "input": "Scenario: A patient with a seizure, Item Type: Ordered Response",
+        "output": "Stem: A nurse is managing a patient having a seizure. Place these actions in order:\nA) Protect the head\nB) Time the seizure\nC) Turn patient to side\nD) Administer anticonvulsant if prescribed\nCorrect Answer: A, B, C, D\nRationale: Protect, time, position, medicate."
+    },
+    {
+        "input": "Scenario: A patient with wound irrigation, Item Type: Ordered Response",
+        "output": "Stem: A nurse is irrigating a wound. Place these steps in order:\nA) Fill syringe with saline\nB) Direct saline into wound\nC) Don gloves\nD) Dry surrounding skin\nCorrect Answer: C, A, B, D\nRationale: Glove, fill, irrigate, dry."
+    },
+    {
+        "input": "Scenario: A patient with an enema, Item Type: Ordered Response",
+        "output": "Stem: A nurse is administering an enema. Place these steps in order:\nA) Position patient on left side\nB) Lubricate the tip\nC) Insert tube gently\nD) Allow fluid to flow\nCorrect Answer: A, B, C, D\nRationale: Position, lubricate, insert, flow."
+    },
+    {
+        "input": "Scenario: A patient with abnormal labs, Item Type: Exhibit",
+        "output": "Stem: A nurse reviews a patient’s lab results. Which finding requires immediate action?\nExhibit: Potassium 6.2 mEq/L, Sodium 138 mEq/L, BUN 18 mg/dL\nA) Hyperkalemia\nB) Hyponatremia\nC) Elevated BUN\nD) Normal results\nCorrect Answer: A) Hyperkalemia\nRationale: Potassium 6.2 mEq/L is critically high, risking arrhythmias."
+    },
+    {
+        "input": "Scenario: A patient with vital signs, Item Type: Exhibit",
+        "output": "Stem: A nurse reviews a patient’s vital signs. Which finding needs reporting?\nExhibit: BP 90/60 mmHg, HR 110 bpm, RR 22/min, Temp 37°C\nA) Blood pressure\nB) Heart rate\nC) Respiratory rate\nD) Temperature\nCorrect Answer: B) Heart rate\nRationale: HR 110 bpm (tachycardia) may indicate compensation for low BP."
+    },
+    {
+        "input": "Scenario: A patient with ABGs, Item Type: Exhibit",
+        "output": "Stem: A nurse reviews an arterial blood gas result. What condition is indicated?\nExhibit: pH 7.30, PaCO2 50 mmHg, HCO3 24 mEq/L\nA) Metabolic acidosis\nB) Respiratory acidosis\nC) Metabolic alkalosis\nD) Respiratory alkalosis\nCorrect Answer: B) Respiratory acidosis\nRationale: Low pH and high PaCO2 indicate hypoventilation."
+    },
+    {
+        "input": "Scenario: A patient with a medication record, Item Type: Exhibit",
+        "output": "Stem: A nurse reviews a patient’s MAR. Which medication should be questioned?\nExhibit: Digoxin 0.25 mg PO daily, Potassium 3.2 mEq/L\nA) Digoxin\nB) Potassium supplement\nC) Furosemide\nD) No medication needs questioning\nCorrect Answer: A) Digoxin\nRationale: Hypokalemia (3.2 mEq/L) increases digoxin toxicity risk."
+    },
+    {
+        "input": "Scenario: A patient with a telemetry strip, Item Type: Exhibit",
+        "output": "Stem: A nurse reviews a telemetry strip. What rhythm is indicated?\nExhibit: Irregular rhythm, no P waves\nA) Sinus rhythm\nB) Atrial fibrillation\nC) Ventricular tachycardia\nD) Atrial flutter\nCorrect Answer: B) Atrial fibrillation\nRationale: Irregular rhythm without P waves is characteristic of atrial fibrillation."
+    },
+    {
+        "input": "Scenario: A patient with intake/output, Item Type: Exhibit",
+        "output": "Stem: A nurse reviews a patient’s intake and output. What does this indicate?\nExhibit: Intake 1500 mL, Output 2000 mL over 24 hours\nA) Fluid overload\nB) Dehydration\nC) Normal balance\nD) Electrolyte imbalance\nCorrect Answer: B) Dehydration\nRationale: Output exceeds intake, suggesting fluid loss."
+    },
+    {
+        "input": "Scenario: A patient with a CBC, Item Type: Exhibit",
+        "output": "Stem: A nurse reviews a patient’s CBC. Which finding suggests infection?\nExhibit: WBC 15,000/mm³, Hgb 12 g/dL, Platelets 250,000/mm³\nA) Elevated WBC\nB) Low hemoglobin\nC) Normal platelets\nD) No concerning findings\nCorrect Answer: A) Elevated WBC\nRationale: WBC above 10,000/mm³ indicates infection or inflammation."
+    },
+    {
+        "input": "Scenario: A patient with liver function tests, Item Type: Exhibit",
+        "output": "Stem: A nurse reviews liver function tests. Which result indicates liver dysfunction?\nExhibit: ALT 150 U/L, AST 120 U/L, Albumin 3.0 g/dL\nA) Elevated ALT and AST\nB) Normal albumin\nC) No abnormal findings\nD) Decreased AST\nCorrect Answer: A) Elevated ALT and AST\nRationale: Elevated liver enzymes suggest hepatocytes damage."
+    },
+    {
+        "input": "Scenario: A patient with a glucose reading, Item Type: Exhibit",
+        "output": "Stem: A nurse reviews a patient’s glucose reading. What action is needed?\nExhibit: Blood glucose 45 mg/dL\nA) Administer insulin\nB) Provide a carbohydrate snack\nC) Monitor only\nD) Notify the provider\nCorrect Answer: B) Provide a carbohydrate snack\nRationale: Glucose below 70 mg/dL indicates hypoglycemia requiring fast-acting carbs."
+    },
+    {
+        "input": "Scenario: A patient with a urinalysis, Item Type: Exhibit",
+        "output": "Stem: A nurse reviews a urinalysis. What does this suggest?\nExhibit: Positive nitrites, WBCs present\nA) Urinary tract infection\nB) Dehydration\nC) Normal findings\nD) Kidney stones\nCorrect Answer: A) Urinary tract infection\nRationale: Nitrites and WBCs indicate bacterial infection."
+    },
+    {
+        "input": "Scenario: A patient with respiratory distress, Item Type: Audio",
+        "output": "Stem: A nurse listens to a patient’s lung sounds and hears high-pitched wheezing. What does this indicate?\nA) Crackles\nB) Wheezes\nC) Rhonchi\nD) Normal breath sounds\nCorrect Answer: B) Wheezes\nRationale: Wheezing suggests airway constriction."
+    },
+    {
+        "input": "Scenario: A patient with cardiac issues, Item Type: Audio",
+        "output": "Stem: A nurse hears a heart sound with an extra murmur between S1 and S2. What does this indicate?\nA) Normal heart sounds\nB) Mitral regurgitation\nC) Aortic stenosis\nD) Sinus rhythm\nCorrect Answer: B) Mitral regurgitation\nRationale: A murmur between S1 and S2 suggests mitral valve issues."
+    },
+    {
+        "input": "Scenario: A patient with bowel sounds, Item Type: Audio",
+        "output": "Stem: A nurse hears high-pitched tinkling bowel sounds. What does this indicate?\nA) Normal bowel sounds\nB) Hypoactive bowel sounds\nC) Hyperactive bowel sounds\nD) Absent bowel sounds\nCorrect Answer: C) Hyperactive bowel sounds\nRationale: Tinkling suggests obstruction-related hyperactivity."
+    },
+    {
+        "input": "Scenario: A patient with lung congestion, Item Type: Audio",
+        "output": "Stem: A nurse hears coarse, bubbling sounds in the lungs. What does this indicate?\nA) Wheezes\nB) Crackles\nC) Rhonchi\nD) Pleural rub\nCorrect Answer: C) Rhonchi\nRationale: Rhonchi indicate mucus in larger airways."
+    },
+    {
+        "input": "Scenario: A patient with a heart condition, Item Type: Audio",
+        "output": "Stem: A nurse hears a galloping rhythm with an extra S3 sound. What does this indicate?\nA) Heart failure\nB) Normal findings\nC) Hypertension\nD) Bradycardia\nCorrect Answer: A) Heart failure\nRationale: S3 is associated with fluid overload in heart failure."
+    },
+    {
+        "input": "Scenario: A patient with respiratory infection, Item Type: Audio",
+        "output": "Stem: A nurse hears fine, high-pitched crackles at the end of inspiration. What does this indicate?\nA) Pneumonia\nB) Asthma\nC) COPD\nD) Normal lungs\nCorrect Answer: A) Pneumonia\nRationale: Fine crackles suggest alveolar fluid, common in pneumonia."
+    },
+    {
+        "input": "Scenario: A patient with a murmur, Item Type: Audio",
+        "output": "Stem: A nurse hears a harsh systolic murmur loudest at the upper right sternal border. What does this indicate?\nA) Mitral stenosis\nB) Aortic stenosis\nC) Tricuspid regurgitation\nD) Normal heart sounds\nCorrect Answer: B) Aortic stenosis\nRationale: This location and timing suggest aortic valve narrowing."
+    },
+    {
+        "input": "Scenario: A patient with absent sounds, Item Type: Audio",
+        "output": "Stem: A nurse hears no bowel sounds after 5 minutes of listening. What does this indicate?\nA) Normal digestion\nB) Ileus\nC) Hyperactive bowels\nD) Bowel obstruction\nCorrect Answer: B) Ileus\nRationale: Absent sounds suggest a lack of peristalsis, typical in ileus."
+    },
+    {
+        "input": "Scenario: A patient with a respiratory condition, Item Type: Audio",
+        "output": "Stem: A nurse hears a low-pitched grating sound during breathing. What does this indicate?\nA) Wheezes\nB) Crackles\nC) Rhonchi\nD) Pleural friction rub\nCorrect Answer: D) Pleural friction rub\nRationale: Grating suggests pleural inflammation."
+    },
+    {
+        "input": "Scenario: A patient with tachycardia, Item Type: Audio",
+        "output": "Stem: A nurse hears a rapid heart rate with regular S1 and S2. What does this indicate?\nA) Sinus tachycardia\nB) Atrial fibrillation\nC) Ventricular tachycardia\nD) Bradycardia\nCorrect Answer: A) Sinus tachycardia\nRationale: Rapid, regular rhythm suggests sinus tachycardia."
+    },
+    {
+        "input": "Scenario: A patient with a pressure ulcer, Item Type: Graphic",
+        "output": "Stem: Which image shows a stage 2 pressure ulcer?\nA) Intact skin with redness\nB) Partial-thickness loss with a blister\nC) Full-thickness skin loss\nD) Exposed muscle and bone\nCorrect Answer: B) Partial-thickness loss with a blister\nRationale: Stage 2 involves partial-thickness loss, often a blister."
+    },
+    {
+        "input": "Scenario: A patient with an ECG, Item Type: Graphic",
+        "output": "Stem: Which ECG strip shows atrial fibrillation?\nA) Regular rhythm with P waves\nB) Irregular rhythm without P waves\nC) Regular rhythm with wide QRS\nD) Sawtooth P waves\nCorrect Answer: B) Irregular rhythm without P waves\nRationale: Atrial fibrillation lacks P waves and is irregular."
+    },
+    {
+        "input": "Scenario: A patient with CPR, Item Type: Graphic",
+        "output": "Stem: Which image shows proper hand positioning for CPR chest compressions?\nA) Hands on lower sternum\nB) Hands on upper chest\nC) One hand on chest, one on abdomen\nD) Hands on sides of chest\nCorrect Answer: A) Hands on lower sternum\nRationale: Compressions target the lower sternum."
+    },
+    {
+        "input": "Scenario: A patient with a rash, Item Type: Graphic",
+        "output": "Stem: Which image shows a measles rash?\nA) Maculopapular rash starting on face\nB) Vesicles across the trunk\nC) Petechiae on legs\nD) Single red patch\nCorrect Answer: A) Maculopapular rash starting on face\nRationale: Measles presents with a face-to-trunk maculopapular rash."
+    },
+    {
+        "input": "Scenario: A patient with a wound, Item Type: Graphic",
+        "output": "Stem: Which image shows a clean, granulating wound?\nA) Red, moist tissue\nB) Yellow slough\nC) Black eschar\nD) Purulent drainage\nCorrect Answer: A) Red, moist tissue\nRationale: Granulation tissue is red and moist, indicating healing."
+    },
+    {
+        "input": "Scenario: A patient with a burn, Item Type: Graphic",
+        "output": "Stem: Which image shows a second-degree burn?\nA) Red, dry skin\nB) Blistered, moist skin\nC) Charred, black skin\nD) White, leathery skin\nCorrect Answer: B) Blistered, moist skin\nRationale: Second-degree burns involve blisters and partial-thickness damage."
+    },
+    {
+        "input": "Scenario: A patient with a catheter, Item Type: Graphic",
+        "output": "Stem: Which image shows correct catheter placement?\nA) Tube in urethra with inflated balloon\nB) Tube in rectum\nC) Tube partially inserted\nD) Tube with no balloon\nCorrect Answer: A) Tube in urethra with inflated balloon\nRationale: Correct placement anchors the catheter in the bladder."
+    },
+    {
+        "input": "Scenario: A patient with a fracture, Item Type: Graphic",
+        "output": "Stem: Which X-ray image shows a comminuted fracture?\nA) Single break line\nB) Multiple bone fragments\nC) Hairline crack\nD) Bone misalignment\nCorrect Answer: B) Multiple bone fragments\nRationale: Comminuted fractures shatter into multiple pieces."
+    },
+    {
+        "input": "Scenario: A patient with IV equipment, Item Type: Graphic",
+        "output": "Stem: Which image shows a correctly primed IV line?\nA) Tubing with no air bubbles\nB) Tubing with air pockets\nC) Tubing unclamped\nD) Tubing disconnected\nCorrect Answer: A) Tubing with no air bubbles\nRationale: Priming removes air to prevent embolism."
+    },
+    {
+        "input": "Scenario: A patient with a stoma, Item Type: Graphic",
+        "output": "Stem: Which image shows a healthy stoma?\nA) Red, moist tissue\nB) Pale, dry tissue\nC) Blackened area\nD) Swollen, retracted tissue\nCorrect Answer: A) Red, moist tissue\nRationale: A healthy stoma is red and moist, indicating good blood supply."
+    },
+    {
+        "input": "Scenario: A patient with diabetic ketoacidosis, Item Type: Bow-Tie",
+        "output": "Stem: For a patient with diabetic ketoacidosis (DKA), select two actions, two parameters, and two complications.\nActions: Administer insulin, Provide IV fluids, Administer potassium, Encourage oral intake\nParameters: Blood glucose, Serum potassium, Urine output, pH level\nComplications: Hypoglycemia, Hyperkalemia, Cerebral edema, Renal failure\nCorrect Answer: Actions: Administer insulin, Provide IV fluids; Parameters: Blood glucose, Serum potassium; Complications: Hypoglycemia, Cerebral edema\nRationale: Insulin and fluids treat DKA; glucose and potassium are monitored; hypoglycemia and edema are risks."
+    },
+    {
+        "input": "Scenario: A patient with anaphylaxis, Item Type: Bow-Tie",
+        "output": "Stem: For a patient with anaphylaxis, select two actions, two parameters, and two complications.\nActions: Administer epinephrine, Provide oxygen, Start IV fluids, Elevate legs\nParameters: Airway patency, Blood pressure, Heart rate, Oxygen saturation\nComplications: Respiratory failure, Cardiac arrest, Shock, Death\nCorrect Answer: Actions: Administer epinephrine, Provide oxygen; Parameters: Airway patency, Blood pressure; Complications: Respiratory failure, Cardiac arrest\nRationale: Epinephrine and oxygen are critical; airway and BP are monitored; failure risks are significant."
+    },
+    {
+        "input": "Scenario: A patient with pulmonary edema, Item Type: Bow-Tie",
+        "output": "Stem: For a patient with pulmonary edema, select two actions, two parameters, and two complications.\nActions: Administer diuretics, Position upright, Provide oxygen, Restrict fluids\nParameters: Oxygen saturation, Respiratory rate, Heart rate, Lung sounds\nComplications: Hypoxemia, Cardiac failure, Respiratory arrest, Fluid overload\nCorrect Answer: Actions: Administer diuretics, Provide oxygen; Parameters: Oxygen saturation, Lung sounds; Complications: Hypoxemia, Respiratory arrest\nRationale: Diuretics and oxygen reduce fluid and improve breathing; saturation and sounds guide care; hypoxemia and arrest are risks."
+    },
+    {
+        "input": "Scenario: A patient with a seizure, Item Type: Bow-Tie",
+        "output": "Stem: For a patient with a seizure, select two actions, two parameters, and two complications.\nActions: Protect head, Turn to side, Administer anticonvulsant, Restrain limbs\nParameters: Seizure duration, Level of consciousness, Respiratory status, Oxygen saturation\nComplications: Aspiration, Brain injury, Status epilepticus, Hypoxia\nCorrect Answer: Actions: Protect head, Turn to side; Parameters: Seizure duration, Respiratory status; Complications: Aspiration, Status epilepticus\nRationale: Protection and positioning ensure safety; duration and breathing are key; aspiration and prolonged seizures are risks."
+    },
+    {
+        "input": "Scenario: A patient with hypovolemic shock, Item Type: Bow-Tie",
+        "output": "Stem: For a patient with hypovolemic shock, select two actions, two parameters, and two complications.\nActions: Administer IV fluids, Apply oxygen, Elevate legs, Transfuse blood\nParameters: Blood pressure, Heart rate, Urine output, Skin color\nComplications: Organ failure, Cardiac arrest, Hypoxemia, Death\nCorrect Answer: Actions: Administer IV fluids, Apply oxygen; Parameters: Blood pressure, Heart rate; Complications: Organ failure, Cardiac arrest\nRationale: Fluids and oxygen restore volume and oxygenation; BP and HR monitor response; organ failure and arrest are risks."
+    },
+    {
+        "input": "Scenario: A patient with acute pancreatitis, Item Type: Bow-Tie",
+        "output": "Stem: For a patient with acute pancreatitis, select two actions, two parameters, and two complications.\nActions: Administer analgesics, NPO status, Provide IV fluids, Administer antibiotics\nParameters: Pain level, Amylase levels, Blood pressure, Temperature\nComplications: Sepsis, Pancreatic necrosis, Hypovolemia, Respiratory distress\nCorrect Answer: Actions: Administer analgesics, Provide IV fluids; Parameters: Pain level, Amylase levels; Complications: Sepsis, Pancreatic necrosis\nRationale: Pain relief and fluids manage symptoms; pain and amylase track progress; sepsis and necrosis are severe risks."
+    },
+    {
+        "input": "Scenario: A patient with a burn injury, Item Type: Bow-Tie",
+        "output": "Stem: For a patient with a burn injury, select two actions, two parameters, and two complications.\nActions: Administer IV fluids, Apply cool water, Cover with sterile dressing, Administer analgesics\nParameters: Burn surface area, Blood pressure, Urine output, Pain level\nComplications: Hypovolemic shock, Infection, Hypothermia, Organ failure\nCorrect Answer: Actions: Administer IV fluids, Cover with sterile dressing; Parameters: Burn surface area, Urine output; Complications: Hypovolemic shock, Infection\nRationale: Fluids and coverage prevent shock and infection; area and output guide care; shock and infection are primary risks."
+    },
+    {
+        "input": "Scenario: A patient with chest pain, Item Type: Bow-Tie",
+        "output": "Stem: For a patient with chest pain, select two actions, two parameters, and two complications.\nActions: Administer nitroglycerin, Obtain ECG, Provide oxygen, Administer aspirin\nParameters: Pain level, Blood pressure, Heart rate, Oxygen saturation\nComplications: Myocardial infarction, Arrhythmias, Cardiac arrest, Heart failure\nCorrect Answer: Actions: Obtain ECG, Provide oxygen; Parameters: Pain level, Heart rate; Complications: Myocardial infarction, Arrhythmias\nRationale: ECG and oxygen assess and treat; pain and HR monitor status; MI and arrhythmias are key risks."
+    },
+    {
+        "input": "Scenario: A patient with dehydration, Item Type: Bow-Tie",
+        "output": "Stem: For a patient with dehydration, select two actions, two parameters, and two complications.\nActions: Administer IV fluids, Encourage oral fluids, Monitor electrolytes, Apply cooling measures\nParameters: Skin turgor, Blood pressure, Heart rate, Urine output\nComplications: Hypovolemic shock, Electrolyte imbalance, Renal failure, Seizures\nCorrect Answer: Actions: Administer IV fluids, Monitor electrolytes; Parameters: Blood pressure, Urine output; Complications: Hypovolemic shock, Renal failure\nRationale: Fluids and electrolytes correct dehydration; BP and output track response; shock and renal failure are risks."
+    },
+    {
+        "input": "Scenario: A patient with pneumonia, Item Type: Bow-Tie",
+        "output": "Stem: For a patient with pneumonia, select two actions, two parameters, and two complications.\nActions: Administer antibiotics, Provide oxygen, Encourage coughing, Administer fluids\nParameters: Oxygen saturation, Respiratory rate, Temperature, Lung sounds\nComplications: Respiratory failure, Sepsis, Pleural effusion, Hypoxemia\nCorrect Answer: Actions: Administer antibiotics, Provide oxygen; Parameters: Oxygen saturation, Lung sounds; Complications: Respiratory failure, Sepsis\nRationale: Antibiotics and oxygen treat pneumonia; saturation and sounds monitor progress; failure and sepsis are risks."
+    },
+    {
+        "input": "Scenario: A patient with trending vital signs, Item Type: Trend",
+        "output": "Stem: A patient’s blood glucose over three days: Day 1 - 180 mg/dL, Day 2 - 160 mg/dL, Day 3 - 140 mg/dL. What trend is indicated?\nA) Improving glycemic control\nB) Worsening hyperglycemia\nC) Stable blood glucose\nD) Hypoglycemia\nCorrect Answer: A) Improving glycemic control\nRationale: Decreasing levels show better control."
+    },
+    {
+        "input": "Scenario: A patient with infection, Item Type: Trend",
+        "output": "Stem: A patient’s WBC count over three days: Day 1 - 15,000/mm³, Day 2 - 12,000/mm³, Day 3 - 9,000/mm³. What trend is indicated?\nA) Resolving infection\nB) Worsening infection\nC) Stable condition\nD) Leukopenia\nCorrect Answer: A) Resolving infection\nRationale: Decreasing WBC suggests infection resolution."
+    },
+    {
+        "input": "Scenario: A patient with hypertension management, Item Type: Trend",
+        "output": "Stem: A patient’s BP over three days: Day 1 - 160/100 mmHg, Day 2 - 150/90 mmHg, Day 3 - 140/85 mmHg. What trend is indicated?\nA) Improving control\nB) Worsening hypertension\nC) Stable BP\nD) Hypotension\nCorrect Answer: A) Improving control\nRationale: Decreasing BP indicates better management."
+    },
+    {
+        "input": "Scenario: A patient with fluid status, Item Type: Trend",
+        "output": "Stem: A patient’s urine output over three days: Day 1 - 200 mL, Day 2 - 300 mL, Day 3 - 400 mL. What trend is indicated?\nA) Improving renal function\nB) Worsening dehydration\nC) Stable output\nD) Fluid overload\nCorrect Answer: A) Improving renal function\nRationale: Increasing output suggests better kidney perfusion."
+    },
+    {
+        "input": "Scenario: A patient with fever, Item Type: Trend",
+        "output": "Stem: A patient’s temperature over three days: Day 1 - 39°C, Day 2 - 38°C, Day 3 - 37°C. What trend is indicated?\nA) Resolving fever\nB) Worsening infection\nC) Stable temperature\nD) Hypothermia\nCorrect Answer: A) Resolving fever\nRationale: Decreasing temperature indicates fever resolution."
+    },
+    {
+        "input": "Scenario: A patient with chest pain, Item Type: Highlight Text",
+        "output": "Stem: Highlight parts of this note indicating further assessment needed:\nNote: 'Patient reports chest pain for 2 hours and nausea. Denies shortness of breath. BP 130/80 mmHg.'\nCorrect Answer: 'chest pain for 2 hours and nausea'\nRationale: Chest pain and nausea may suggest a cardiac issue requiring urgent evaluation."
+    },
+    {
+        "input": "Scenario: A patient with medication orders, Item Type: Highlight Text",
+        "output": "Stem: Highlight parts of this order requiring clarification:\nOrder: 'Administer digoxin 0.25 mg IV daily.'\nCorrect Answer: 'IV'\nRationale: Digoxin is not typically given IV due to safety risks; it’s usually PO."
+    },
+    {
+        "input": "Scenario: A patient with a fall, Item Type: Highlight Text",
+        "output": "Stem: Highlight parts of this note indicating a complication:\nNote: 'Patient fell this morning. Complains of hip pain and unable to bear weight. No visible deformity.'\nCorrect Answer: 'hip pain and unable to bear weight'\nRationale: These suggest a possible fracture needing further assessment."
+    },
+    {
+        "input": "Scenario: A patient with respiratory conditions, Item Type: Matrix/Grid",
+        "output": "Stem: Indicate symptoms associated with Pneumonia and Asthma.\nSymptoms: Cough, Wheezing, Fever, Dyspnea, Chest pain\nGrid:\n- Pneumonia: Cough, Fever, Dyspnea, Chest pain\n- Asthma: Wheezing, Dyspnea\nCorrect Answer: As above\nRationale: Pneumonia involves cough and fever; asthma features wheezing."
+    },
+    {
+        "input": "Scenario: A patient with glucose issues, Item Type: Matrix/Grid",
+        "output": "Stem: Indicate interventions for Hypoglycemia and Hyperglycemia.\nInterventions: Administer insulin, Provide glucose, Monitor blood sugar, Encourage fluids\nGrid:\n- Hypoglycemia: Provide glucose, Monitor blood sugar\n- Hyperglycemia: Administer insulin, Monitor blood sugar, Encourage fluids\nCorrect Answer: As above\nRationale: Glucose treats low sugar; insulin and fluids treat high sugar."
+    }
+]

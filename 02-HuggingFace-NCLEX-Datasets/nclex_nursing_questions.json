@@ -1,0 +1,776 @@
+[
+  {
+    "id": "MC-001",
+    "item_type": "Multiple Choice",
+    "scenario": "A patient with newly diagnosed hypertension",
+    "stem": "A nurse is teaching a patient who was recently diagnosed with hypertension. Which statement by the patient indicates understanding of the teaching?",
+    "options": "[\"A) 'I should restrict my fluid intake to 1 liter per day.'\", \"B) 'I should reduce my sodium intake to less than 2,300 mg daily.'\", \"C) 'I should increase my calcium intake to 2,000 mg daily.'\", \"D) 'I should eliminate all fats from my diet.'\"]",
+    "correct_answer": "B) 'I should reduce my sodium intake to less than 2,300 mg daily.'",
+    "rationale": "Sodium restriction helps control blood pressure. The other options are either incorrect or not primary recommendations for hypertension management."
+  },
+  {
+    "id": "MC-002",
+    "item_type": "Multiple Choice",
+    "scenario": "A patient with chest pain",
+    "stem": "A nurse is caring for a patient admitted with chest pain. The patient's cardiac enzymes are elevated. Which intervention should the nurse implement first?",
+    "options": "[\"A) Administer morphine sulfate\", \"B) Provide oxygen therapy\", \"C) Obtain a 12-lead ECG\", \"D) Administer aspirin\"]",
+    "correct_answer": "C) Obtain a 12-lead ECG",
+    "rationale": "A 12-lead ECG should be performed immediately to determine if the patient is experiencing a myocardial infarction. This is the first step in the clinical pathway for chest pain."
+  },
+  {
+    "id": "MC-003",
+    "item_type": "Multiple Choice",
+    "scenario": "A patient with diabetes",
+    "stem": "A nurse is administering insulin to a patient with diabetes. Which finding should prompt the nurse to withhold the insulin dose?",
+    "options": "[\"A) Blood glucose of 70 mg/dL\", \"B) Blood glucose of 150 mg/dL\", \"C) Patient ate only half of breakfast\", \"D) Patient reports nausea but no vomiting\"]",
+    "correct_answer": "A) Blood glucose of 70 mg/dL",
+    "rationale": "A blood glucose of 70 mg/dL indicates hypoglycemia. Administering insulin would further lower blood glucose and potentially cause severe hypoglycemia."
+  },
+  {
+    "id": "SATA-001",
+    "item_type": "Select All That Apply",
+    "scenario": "A postpartum patient",
+    "stem": "A nurse is assessing a patient 2 hours after vaginal delivery. Which findings should the nurse report to the healthcare provider? Select all that apply.",
+    "options": "[\"A) Blood pressure of 140/90 mmHg\", \"B) Heart rate of 88 beats/minute\", \"C) Saturation of pad with bright red blood in 1 hour\", \"D) Fundus boggy and 2 cm above umbilicus\", \"E) Perineal pain rated 4 on a scale of 0-10\"]",
+    "correct_answer": "[\"A) Blood pressure of 140/90 mmHg\", \"C) Saturation of pad with bright red blood in 1 hour\", \"D) Fundus boggy and 2 cm above umbilicus\"]",
+    "rationale": "Elevated blood pressure may indicate preeclampsia, saturated pad indicates excessive bleeding, and a boggy fundus indicates uterine atony. The heart rate and pain level are within expected limits."
+  },
+  {
+    "id": "SATA-002",
+    "item_type": "Select All That Apply",
+    "scenario": "A patient with Parkinson's disease",
+    "stem": "A nurse is caring for a patient with Parkinson's disease. Which interventions should the nurse include in the care plan? Select all that apply.",
+    "options": "[\"A) Schedule medications before meals\", \"B) Provide high-protein meals with medication\", \"C) Encourage frequent rest periods between activities\", \"D) Implement fall prevention strategies\", \"E) Discourage the use of assistive devices\"]",
+    "correct_answer": "[\"A) Schedule medications before meals\", \"C) Encourage frequent rest periods between activities\", \"D) Implement fall prevention strategies\"]",
+    "rationale": "Medications should be given before meals as protein can interfere with absorption, rest periods help manage fatigue, and fall prevention is essential due to gait instability. High-protein meals interfere with medication absorption, and assistive devices are beneficial."
+  },
+  {
+    "id": "FIB-001",
+    "item_type": "Fill-in-the-Blank",
+    "scenario": "A pediatric patient requiring medication",
+    "stem": "A pediatric patient weighing 22 kg is prescribed amoxicillin 50 mg/kg/day in divided doses every 8 hours. How many mg should the nurse administer per dose?",
+    "options": "[]",
+    "correct_answer": "367 mg",
+    "rationale": "Calculation: 22 kg \u00c3\u2014 50 mg/kg/day = 1100 mg/day. Divided by 3 doses (every 8 hours) = 366.67 mg, rounded to 367 mg."
+  },
+  {
+    "id": "FIB-002",
+    "item_type": "Fill-in-the-Blank",
+    "scenario": "A patient receiving IV fluids",
+    "stem": "A patient is to receive 1500 mL of IV fluid over 12 hours. If the IV tubing has a drop factor of 15 gtt/mL, what should the flow rate be in gtt/min?",
+    "options": "[]",
+    "correct_answer": "31 gtt/min",
+    "rationale": "Calculation: (1500 mL \u00c3\u2014 15 gtt/mL) \u00c3\u00b7 (12 hr \u00c3\u2014 60 min/hr) = 31.25 gtt/min, rounded to 31 gtt/min."
+  },
+  {
+    "id": "ORD-001",
+    "item_type": "Ordered Response",
+    "scenario": "A patient requiring CPR",
+    "stem": "Place the following steps for adult CPR in the correct order:",
+    "options": "[\"A) Check for responsiveness\", \"B) Give 30 chest compressions\", \"C) Open the airway\", \"D) Give 2 rescue breaths\", \"E) Call for help or activate emergency response\"]",
+    "correct_answer": "[\"A\", \"E\", \"C\", \"B\", \"D\"]",
+    "rationale": "The correct sequence is: check responsiveness, call for help, open airway, give compressions, then give rescue breaths following current BLS guidelines."
+  },
+  {
+    "id": "HS-001",
+    "item_type": "Hot Spot",
+    "scenario": "A patient requiring an IM injection",
+    "stem": "A nurse is preparing to administer an intramuscular injection to an adult patient. Identify the appropriate site for ventrogluteal injection.",
+    "options": "[\"Image of human body with injection sites\"]",
+    "correct_answer": "Ventrogluteal site - formed by the gluteus medius, gluteus minimus, and the iliac crest",
+    "rationale": "The ventrogluteal site is preferred for IM injections in adults as it has few major nerves and blood vessels, thick muscle mass, and is away from major nerves."
+  },
+  {
+    "id": "EXH-001",
+    "item_type": "Exhibit",
+    "scenario": "A patient with abnormal lab values",
+    "stem": "A nurse is reviewing the following lab values for a patient. Which condition does this pattern suggest?",
+    "options": "[\"Exhibit: Sodium 148 mEq/L, Potassium 3.1 mEq/L, Chloride 112 mEq/L, BUN 28 mg/dL, Creatinine 1.1 mg/dL, Glucose 110 mg/dL\", \"A) Metabolic acidosis\", \"B) Metabolic alkalosis\", \"C) Respiratory acidosis\", \"D) Respiratory alkalosis\"]",
+    "correct_answer": "B) Metabolic alkalosis",
+    "rationale": "High sodium, low potassium, and high chloride with normal kidney function are consistent with metabolic alkalosis, often seen with diuretic use or vomiting."
+  },
+  {
+    "id": "GRA-001",
+    "item_type": "Graphic",
+    "scenario": "A patient with cardiac dysrhythmia",
+    "stem": "A nurse is monitoring a patient's cardiac rhythm. Which dysrhythmia is shown in the ECG strip?",
+    "options": "[\"A) Normal sinus rhythm\", \"B) Ventricular tachycardia\", \"C) Atrial fibrillation\", \"D) Second-degree AV block, type I (Wenckebach)\"]",
+    "correct_answer": "C) Atrial fibrillation",
+    "rationale": "The ECG shows irregular rhythm with absence of P waves and irregular QRS complexes, which are characteristic of atrial fibrillation."
+  },
+  {
+    "id": "BT-001",
+    "item_type": "Bow-Tie",
+    "scenario": "A patient with congestive heart failure",
+    "stem": "For a patient with congestive heart failure, select two actions, two parameters to monitor, and two potential complications.",
+    "options": "{\"Actions\": [\"Administer diuretics\", \"Encourage ambulation\", \"Administer oxygen\", \"Restrict fluid intake\"], \"Parameters\": [\"Jugular venous distention\", \"Respiratory rate\", \"Blood pressure\", \"Daily weight\"], \"Complications\": [\"Pulmonary edema\", \"Hypovolemic shock\", \"Cardiac arrest\", \"Metabolic acidosis\"]}",
+    "correct_answer": "{\"Actions\": [\"Administer diuretics\", \"Restrict fluid intake\"], \"Parameters\": [\"Jugular venous distention\", \"Daily weight\"], \"Complications\": [\"Pulmonary edema\", \"Cardiac arrest\"]}",
+    "rationale": "Diuretics and fluid restriction reduce fluid overload; JVD and weight monitor fluid status; pulmonary edema and cardiac arrest are common complications of worsening CHF."
+  },
+  {
+    "id": "HT-001",
+    "item_type": "Highlight Text",
+    "scenario": "A patient with altered mental status",
+    "stem": "Highlight the parts of this nursing note that require immediate follow-up:",
+    "options": "[\"Patient is lethargic but arousable. BP 90/50 mmHg, HR 110 bpm, RR 26, temp 38.8\\u00c2\\u00b0C. Skin warm and flushed. Oriented to person only. IV fluids running at 125 mL/hr. Urine output 20 mL in last 4 hours.\"]",
+    "correct_answer": "[\"BP 90/50 mmHg\", \"HR 110 bpm\", \"RR 26\", \"temp 38.8\\u00c2\\u00b0C\", \"Oriented to person only\", \"Urine output 20 mL in last 4 hours\"]",
+    "rationale": "Hypotension, tachycardia, tachypnea, fever, altered mental status, and low urine output are all signs of possible sepsis requiring immediate intervention."
+  },
+  {
+    "id": "MG-001",
+    "item_type": "Matrix/Grid",
+    "scenario": "Patients with different acid-base disorders",
+    "stem": "Match each acid-base disorder with its corresponding lab values:",
+    "options": "{\"Disorders\": [\"Respiratory Acidosis\", \"Respiratory Alkalosis\", \"Metabolic Acidosis\", \"Metabolic Alkalosis\"], \"Lab Values\": [\"pH 7.32, PaCO2 52 mmHg, HCO3- 26 mEq/L\", \"pH 7.48, PaCO2 30 mmHg, HCO3- 24 mEq/L\", \"pH 7.30, PaCO2 40 mmHg, HCO3- 18 mEq/L\", \"pH 7.50, PaCO2 40 mmHg, HCO3- 32 mEq/L\"]}",
+    "correct_answer": "{\"Respiratory Acidosis\": \"pH 7.32, PaCO2 52 mmHg, HCO3- 26 mEq/L\", \"Respiratory Alkalosis\": \"pH 7.48, PaCO2 30 mmHg, HCO3- 24 mEq/L\", \"Metabolic Acidosis\": \"pH 7.30, PaCO2 40 mmHg, HCO3- 18 mEq/L\", \"Metabolic Alkalosis\": \"pH 7.50, PaCO2 40 mmHg, HCO3- 32 mEq/L\"}",
+    "rationale": "Each acid-base disorder has characteristic patterns of pH, PaCO2, and HCO3-. Respiratory disorders primarily affect PaCO2, while metabolic disorders primarily affect HCO3-."
+  },
+  {
+    "id": "MC-004",
+    "item_type": "Multiple Choice",
+    "scenario": "A patient receiving blood transfusion",
+    "stem": "A nurse is monitoring a patient receiving a blood transfusion. Which finding requires immediate intervention?",
+    "options": "[\"A) Temperature of 38.2\\u00c2\\u00b0C (100.8\\u00c2\\u00b0F)\", \"B) Pulse of 88 beats/minute\", \"C) Blood pressure of 130/80 mmHg\", \"D) Respiratory rate of 18 breaths/minute\"]",
+    "correct_answer": "A) Temperature of 38.2\u00c2\u00b0C (100.8\u00c2\u00b0F)",
+    "rationale": "An elevated temperature during a blood transfusion may indicate a transfusion reaction, requiring immediate intervention including stopping the transfusion."
+  },
+  {
+    "id": "SATA-003",
+    "item_type": "Select All That Apply",
+    "scenario": "A patient with tuberculosis",
+    "stem": "A nurse is planning care for a patient with newly diagnosed tuberculosis. Which interventions should the nurse include? Select all that apply.",
+    "options": "[\"A) Implement airborne precautions\", \"B) Educate about medication adherence\", \"C) Place in a negative pressure room\", \"D) Recommend droplet precautions only\", \"E) Initiate contact precautions\"]",
+    "correct_answer": "[\"A) Implement airborne precautions\", \"B) Educate about medication adherence\", \"C) Place in a negative pressure room\"]",
+    "rationale": "TB requires airborne precautions, medication adherence is crucial to prevent resistance, and a negative pressure room prevents spread. Droplet and contact precautions alone are insufficient."
+  },
+  {
+    "id": "FIB-003",
+    "item_type": "Fill-in-the-Blank",
+    "scenario": "A patient receiving pain medication",
+    "stem": "A patient is prescribed morphine sulfate 8 mg IV. Available is morphine sulfate 10 mg/mL. How many mL should the nurse administer?",
+    "options": "[]",
+    "correct_answer": "0.8 mL",
+    "rationale": "Calculation: 8 mg \u00c3\u00b7 10 mg/mL = 0.8 mL"
+  },
+  {
+    "id": "HT-002",
+    "item_type": "Highlight Text",
+    "scenario": "A patient discharge instruction",
+    "stem": "Highlight the parts of these discharge instructions that are incorrect:",
+    "options": "[\"Take your warfarin with milk to reduce stomach upset. If you miss a dose, take double the dose the next day. Check for bleeding gums when brushing teeth. Avoid eating green leafy vegetables. Contact your healthcare provider if you have any unusual bleeding or bruising.\"]",
+    "correct_answer": "[\"Take your warfarin with milk\", \"If you miss a dose, take double the dose the next day\"]",
+    "rationale": "Warfarin should not be taken with milk (calcium can interfere with absorption), and a missed dose should never be doubled (increases bleeding risk)."
+  },
+  {
+    "id": "MG-002",
+    "item_type": "Matrix/Grid",
+    "scenario": "Patients with different electrolyte imbalances",
+    "stem": "Match each electrolyte imbalance with its corresponding symptoms:",
+    "options": "{\"Imbalances\": [\"Hypokalemia\", \"Hyperkalemia\", \"Hyponatremia\", \"Hypernatremia\"], \"Symptoms\": [\"Muscle weakness, cardiac arrhythmias, decreased reflexes\", \"Peaked T waves, muscle weakness, bradycardia\", \"Confusion, seizures, muscle cramps\", \"Thirst, restlessness, dry mucous membranes\"]}",
+    "correct_answer": "{\"Hypokalemia\": \"Muscle weakness, cardiac arrhythmias, decreased reflexes\", \"Hyperkalemia\": \"Peaked T waves, muscle weakness, bradycardia\", \"Hyponatremia\": \"Confusion, seizures, muscle cramps\", \"Hypernatremia\": \"Thirst, restlessness, dry mucous membranes\"}",
+    "rationale": "Each electrolyte imbalance presents with characteristic symptoms based on the electrolyte's role in physiological processes."
+  },
+  {
+    "id": "MC-005",
+    "item_type": "Multiple Choice",
+    "scenario": "A patient with asthma",
+    "stem": "A nurse is caring for a patient experiencing an acute asthma attack. Which medication should the nurse administer first?",
+    "options": "[\"A) Albuterol via nebulizer\", \"B) Prednisone orally\", \"C) Montelukast orally\", \"D) Ipratropium via inhaler\"]",
+    "correct_answer": "A) Albuterol via nebulizer",
+    "rationale": "Albuterol is a fast-acting bronchodilator and the first-line treatment for acute asthma exacerbations to relieve bronchospasm."
+  },
+  {
+    "id": "MC-006",
+    "item_type": "Multiple Choice",
+    "scenario": "A patient postoperative from appendectomy",
+    "stem": "A nurse is assessing a patient 24 hours after an appendectomy. Which finding requires immediate reporting to the healthcare provider?",
+    "options": "[\"A) Temperature of 37.8\\u00c2\\u00b0C (100\\u00c2\\u00b0F)\", \"B) Absence of bowel sounds\", \"C) Pain at incision site rated 3/10\", \"D) Urine output of 50 mL/hour\"]",
+    "correct_answer": "B) Absence of bowel sounds",
+    "rationale": "Absence of bowel sounds 24 hours post-surgery may indicate a paralytic ileus or other complications requiring immediate attention."
+  },
+  {
+    "id": "MC-007",
+    "item_type": "Multiple Choice",
+    "scenario": "A patient with bipolar disorder",
+    "stem": "A nurse is caring for a patient with bipolar disorder in a manic phase. Which intervention is most appropriate?",
+    "options": "[\"A) Encourage group activities with other patients\", \"B) Provide a quiet, low-stimulus environment\", \"C) Allow the patient to make all care decisions\", \"D) Restrict all physical activity\"]",
+    "correct_answer": "B) Provide a quiet, low-stimulus environment",
+    "rationale": "A low-stimulus environment helps reduce agitation and overstimulation during a manic episode."
+  },
+  {
+    "id": "MC-008",
+    "item_type": "Multiple Choice",
+    "scenario": "A pediatric patient with fever",
+    "stem": "A nurse is caring for a 4-year-old with a fever of 39.5\u00c2\u00b0C (103.1\u00c2\u00b0F). Which action should the nurse take first?",
+    "options": "[\"A) Administer acetaminophen as prescribed\", \"B) Apply a cooling blanket\", \"C) Encourage fluid intake\", \"D) Notify the healthcare provider\"]",
+    "correct_answer": "A) Administer acetaminophen as prescribed",
+    "rationale": "Administering an antipyretic like acetaminophen is the priority to reduce fever and prevent complications like febrile seizures in a pediatric patient."
+  },
+  {
+    "id": "MC-009",
+    "item_type": "Multiple Choice",
+    "scenario": "A patient with chronic kidney disease",
+    "stem": "A nurse is teaching a patient with chronic kidney disease about dietary restrictions. Which food should the patient avoid?",
+    "options": "[\"A) Apples\", \"B) Bananas\", \"C) Carrots\", \"D) White bread\"]",
+    "correct_answer": "B) Bananas",
+    "rationale": "Bananas are high in potassium, which should be restricted in chronic kidney disease to prevent hyperkalemia."
+  },
+  {
+    "id": "SATA-004",
+    "item_type": "Select All That Apply",
+    "scenario": "A patient with pneumonia",
+    "stem": "A nurse is caring for a patient with pneumonia. Which interventions should the nurse include in the care plan? Select all that apply.",
+    "options": "[\"A) Encourage deep breathing and coughing\", \"B) Administer antibiotics as prescribed\", \"C) Position in high Fowler\\u00e2\\u20ac\\u2122s position\", \"D) Restrict fluid intake to prevent lung congestion\", \"E) Monitor oxygen saturation\"]",
+    "correct_answer": "[\"A) Encourage deep breathing and coughing\", \"B) Administer antibiotics as prescribed\", \"C) Position in high Fowler\\u00e2\\u20ac\\u2122s position\", \"E) Monitor oxygen saturation\"]",
+    "rationale": "Deep breathing clears secretions, antibiotics treat infection, high Fowler\u00e2\u20ac\u2122s aids breathing, and oxygen saturation monitoring assesses respiratory status. Fluid restriction is not indicated unless specified."
+  },
+  {
+    "id": "SATA-005",
+    "item_type": "Select All That Apply",
+    "scenario": "A patient with a new colostomy",
+    "stem": "A nurse is teaching a patient with a new colostomy. Which statements by the patient indicate understanding? Select all that apply.",
+    "options": "[\"A) 'I should empty the pouch when it\\u00e2\\u20ac\\u2122s one-third full.'\", \"B) 'I can eat popcorn and nuts without concern.'\", \"C) 'I should report skin redness around the stoma.'\", \"D) 'I need to drink more fluids to prevent dehydration.'\", \"E) 'I should change the pouch every day.'\"]",
+    "correct_answer": "[\"A) 'I should empty the pouch when it\\u00e2\\u20ac\\u2122s one-third full.'\", \"C) 'I should report skin redness around the stoma.'\", \"D) 'I need to drink more fluids to prevent dehydration.'\"]",
+    "rationale": "Emptying at one-third full prevents leaks, redness indicates irritation, and fluids prevent dehydration. Popcorn and nuts can cause blockages, and daily pouch changes are unnecessary unless leaking."
+  },
+  {
+    "id": "FIB-004",
+    "item_type": "Fill-in-the-Blank",
+    "scenario": "A patient receiving heparin",
+    "stem": "A patient is prescribed heparin 5,000 units subcutaneous. The available concentration is 10,000 units/mL. How many mL should the nurse administer?",
+    "options": "[]",
+    "correct_answer": "0.5 mL",
+    "rationale": "Calculation: 5,000 units \u00c3\u00b7 10,000 units/mL = 0.5 mL"
+  },
+  {
+    "id": "FIB-005",
+    "item_type": "Fill-in-the-Blank",
+    "scenario": "A patient with dehydration",
+    "stem": "A patient is prescribed 1,000 mL of 0.9% sodium chloride over 8 hours. If the IV tubing has a drop factor of 10 gtt/mL, what should the flow rate be in gtt/min?",
+    "options": "[]",
+    "correct_answer": "21 gtt/min",
+    "rationale": "Calculation: (1,000 mL \u00c3\u2014 10 gtt/mL) \u00c3\u00b7 (8 hr \u00c3\u2014 60 min/hr) = 20.83 gtt/min, rounded to 21 gtt/min."
+  },
+  {
+    "id": "ORD-002",
+    "item_type": "Ordered Response",
+    "scenario": "A patient with a seizure",
+    "stem": "Place the following steps in the correct order for managing a patient having a seizure:",
+    "options": "[\"A) Ensure a patent airway\", \"B) Move objects away from the patient\", \"C) Time the seizure\", \"D) Place a padded tongue blade in the mouth\", \"E) Turn the patient to the side\"]",
+    "correct_answer": "[\"B\", \"C\", \"A\", \"E\"]",
+    "rationale": "First, ensure safety by moving objects, then time the seizure, maintain an airway, and turn to the side to prevent aspiration. Tongue blades are not used due to risk of injury."
+  },
+  {
+    "id": "HS-002",
+    "item_type": "Hot Spot",
+    "scenario": "A patient requiring a subcutaneous injection",
+    "stem": "A nurse is preparing to administer a subcutaneous injection. Identify the appropriate site on the abdomen.",
+    "options": "[\"Image of abdomen with injection sites\"]",
+    "correct_answer": "Area 2 inches away from the umbilicus",
+    "rationale": "The abdomen is a common site for subcutaneous injections, and the area 2 inches from the umbilicus avoids major blood vessels and nerves."
+  },
+  {
+    "id": "EXH-002",
+    "item_type": "Exhibit",
+    "scenario": "A patient with liver failure",
+    "stem": "A nurse is reviewing the following lab values. Which condition is most likely?",
+    "options": "[\"Exhibit: Ammonia 90 mcg/dL, Bilirubin 3.5 mg/dL, ALT 75 U/L, AST 80 U/L\", \"A) Acute pancreatitis\", \"B) Hepatic encephalopathy\", \"C) Renal failure\", \"D) Myocardial infarction\"]",
+    "correct_answer": "B) Hepatic encephalopathy",
+    "rationale": "Elevated ammonia and bilirubin with moderately elevated liver enzymes suggest liver dysfunction, consistent with hepatic encephalopathy."
+  },
+  {
+    "id": "GRA-002",
+    "item_type": "Graphic",
+    "scenario": "A patient with a wound",
+    "stem": "A nurse is assessing a patient\u00e2\u20ac\u2122s wound. Which type of drainage is shown in the image?",
+    "options": "[\"A) Serous\", \"B) Sanguineous\", \"C) Purulent\", \"D) Serosanguineous\"]",
+    "correct_answer": "C) Purulent",
+    "rationale": "Purulent drainage is thick and yellow or green, indicating infection, as opposed to clear serous, bloody sanguineous, or pink serosanguineous drainage."
+  },
+  {
+    "id": "BT-002",
+    "item_type": "Bow-Tie",
+    "scenario": "A patient with hypoglycemia",
+    "stem": "For a patient with hypoglycemia, select two actions, two parameters to monitor, and two potential complications.",
+    "options": "{\"Actions\": [\"Administer 15 g of carbohydrate\", \"Recheck blood glucose in 15 minutes\", \"Restrict all food intake\", \"Administer insulin\"], \"Parameters\": [\"Blood glucose level\", \"Level of consciousness\", \"Heart rate\", \"Oxygen saturation\"], \"Complications\": [\"Seizures\", \"Coma\", \"Hypertension\", \"Respiratory failure\"]}",
+    "correct_answer": "{\"Actions\": [\"Administer 15 g of carbohydrate\", \"Recheck blood glucose in 15 minutes\"], \"Parameters\": [\"Blood glucose level\", \"Level of consciousness\"], \"Complications\": [\"Seizures\", \"Coma\"]}",
+    "rationale": "Carbohydrates treat hypoglycemia, rechecking ensures improvement, glucose and consciousness monitor response, and seizures or coma are risks of untreated hypoglycemia."
+  },
+  {
+    "id": "HT-003",
+    "item_type": "Highlight Text",
+    "scenario": "A patient with a medication error",
+    "stem": "Highlight the parts of this medication order that are incomplete or unclear:",
+    "options": "[\"Give antibiotic 500 mg IV every day for infection. Start now.\"]",
+    "correct_answer": "[\"antibiotic\", \"every day\"]",
+    "rationale": "The specific antibiotic name and exact frequency (e.g., q24h) are missing, making the order incomplete and unclear."
+  },
+  {
+    "id": "MG-003",
+    "item_type": "Matrix/Grid",
+    "scenario": "Patients with medication side effects",
+    "stem": "Match each medication with its common side effect:",
+    "options": "{\"Medications\": [\"Furosemide\", \"Lisinopril\", \"Metformin\", \"Warfarin\"], \"Side Effects\": [\"Hypokalemia\", \"Cough\", \"Lactic acidosis\", \"Bleeding\"]}",
+    "correct_answer": "{\"Furosemide\": \"Hypokalemia\", \"Lisinopril\": \"Cough\", \"Metformin\": \"Lactic acidosis\", \"Warfarin\": \"Bleeding\"}",
+    "rationale": "Furosemide causes potassium loss, lisinopril causes cough, metformin risks lactic acidosis, and warfarin increases bleeding risk."
+  },
+  {
+    "id": "MC-010",
+    "item_type": "Multiple Choice",
+    "scenario": "A patient with a burn injury",
+    "stem": "A nurse is caring for a patient with a second-degree burn. Which dressing is most appropriate?",
+    "options": "[\"A) Dry sterile gauze\", \"B) Petroleum-based ointment\", \"C) Silver sulfadiazine cream\", \"D) Hydrocolloid dressing\"]",
+    "correct_answer": "C) Silver sulfadiazine cream",
+    "rationale": "Silver sulfadiazine prevents infection and promotes healing in second-degree burns."
+  },
+  {
+    "id": "MC-011",
+    "item_type": "Multiple Choice",
+    "scenario": "A patient with a urinary tract infection",
+    "stem": "A nurse is teaching a patient with a UTI. Which statement should the nurse include?",
+    "options": "[\"A) 'Limit fluid intake to reduce bladder irritation.'\", \"B) 'Take the antibiotic until symptoms disappear.'\", \"C) 'Drink cranberry juice to help prevent recurrence.'\", \"D) 'Avoid wiping after urination.'\"]",
+    "correct_answer": "C) 'Drink cranberry juice to help prevent recurrence.'",
+    "rationale": "Cranberry juice may prevent bacterial adhesion in the urinary tract. Fluid intake should increase, antibiotics must be completed, and hygiene is essential."
+  },
+  {
+    "id": "SATA-006",
+    "item_type": "Select All That Apply",
+    "scenario": "A patient with a stroke",
+    "stem": "A nurse is assessing a patient post-stroke. Which findings suggest left-sided hemiplegia? Select all that apply.",
+    "options": "[\"A) Weakness in the right arm\", \"B) Weakness in the left leg\", \"C) Facial droop on the right side\", \"D) Inability to speak clearly\", \"E) Weakness in the right leg\"]",
+    "correct_answer": "[\"A) Weakness in the right arm\", \"C) Facial droop on the right side\", \"E) Weakness in the right leg\"]",
+    "rationale": "Left-sided brain damage causes right-sided weakness and facial droop due to contralateral control. Speech issues may occur but are not specific to hemiplegia."
+  },
+  {
+    "id": "FIB-006",
+    "item_type": "Fill-in-the-Blank",
+    "scenario": "A patient with a diuretic",
+    "stem": "A patient is prescribed furosemide 40 mg IV. Available is furosemide 10 mg/mL. How many mL should the nurse administer?",
+    "options": "[]",
+    "correct_answer": "4 mL",
+    "rationale": "Calculation: 40 mg \u00c3\u00b7 10 mg/mL = 4 mL"
+  },
+  {
+    "id": "ORD-003",
+    "item_type": "Ordered Response",
+    "scenario": "A patient with a tracheostomy",
+    "stem": "Place the steps for suctioning a tracheostomy in the correct order:",
+    "options": "[\"A) Hyperoxygenate the patient\", \"B) Insert the suction catheter\", \"C) Apply suction while withdrawing\", \"D) Check the suction equipment\", \"E) Assess respiratory status\"]",
+    "correct_answer": "[\"E\", \"D\", \"A\", \"B\", \"C\"]",
+    "rationale": "Assess first, check equipment, oxygenate to prevent hypoxia, insert catheter, then suction while withdrawing."
+  },
+  {
+    "id": "HS-003",
+    "item_type": "Hot Spot",
+    "scenario": "A patient requiring a blood pressure measurement",
+    "stem": "A nurse is measuring blood pressure. Identify the correct placement of the cuff on the upper arm.",
+    "options": "[\"Image of arm with cuff placement options\"]",
+    "correct_answer": "2-3 cm above the antecubital fossa",
+    "rationale": "The cuff should be placed 2-3 cm above the antecubital fossa to ensure accurate readings without obstructing the brachial artery."
+  },
+  {
+    "id": "EXH-003",
+    "item_type": "Exhibit",
+    "scenario": "A patient with anemia",
+    "stem": "A nurse reviews the following labs. Which condition is indicated?",
+    "options": "[\"Exhibit: Hemoglobin 9 g/dL, Hematocrit 27%, MCV 70 fL\", \"A) Iron deficiency anemia\", \"B) Sickle cell anemia\", \"C) Vitamin B12 deficiency\", \"D) Aplastic anemia\"]",
+    "correct_answer": "A) Iron deficiency anemia",
+    "rationale": "Low hemoglobin, hematocrit, and microcytic MCV (70 fL) indicate iron deficiency anemia."
+  },
+  {
+    "id": "GRA-003",
+    "item_type": "Graphic",
+    "scenario": "A patient with a rash",
+    "stem": "A nurse is assessing a patient\u00e2\u20ac\u2122s rash. Which condition is suggested by the image?",
+    "options": "[\"A) Contact dermatitis\", \"B) Psoriasis\", \"C) Shingles\", \"D) Eczema\"]",
+    "correct_answer": "C) Shingles",
+    "rationale": "Shingles presents as a unilateral, vesicular rash along a dermatome, distinct from the other conditions."
+  },
+  {
+    "id": "BT-003",
+    "item_type": "Bow-Tie",
+    "scenario": "A patient with anaphylaxis",
+    "stem": "For a patient with anaphylaxis, select two actions, two parameters to monitor, and two potential complications.",
+    "options": "{\"Actions\": [\"Administer epinephrine IM\", \"Remove the allergen\", \"Administer IV fluids\", \"Restrict oxygen\"], \"Parameters\": [\"Airway patency\", \"Blood pressure\", \"Pulse oximetry\", \"Temperature\"], \"Complications\": [\"Respiratory arrest\", \"Shock\", \"Renal failure\", \"Hyperglycemia\"]}",
+    "correct_answer": "{\"Actions\": [\"Administer epinephrine IM\", \"Remove the allergen\"], \"Parameters\": [\"Airway patency\", \"Blood pressure\"], \"Complications\": [\"Respiratory arrest\", \"Shock\"]}",
+    "rationale": "Epinephrine reverses symptoms, removing the allergen stops the reaction, airway and BP monitor severity, and respiratory arrest or shock are life-threatening risks."
+  },
+  {
+    "id": "HT-004",
+    "item_type": "Highlight Text",
+    "scenario": "A patient with a fall risk",
+    "stem": "Highlight the parts of this assessment that increase fall risk:",
+    "options": "[\"Patient is 78 years old, alert, and oriented. Takes Lasix 20 mg daily. BP 110/70 mmHg. Uses a cane. Reports dizziness when standing.\"]",
+    "correct_answer": "[\"Takes Lasix 20 mg daily\", \"Reports dizziness when standing\"]",
+    "rationale": "Diuretics like Lasix can cause orthostatic hypotension, and dizziness increases fall risk."
+  },
+  {
+    "id": "MG-004",
+    "item_type": "Matrix/Grid",
+    "scenario": "Patients with respiratory conditions",
+    "stem": "Match each respiratory condition with its hallmark symptom:",
+    "options": "{\"Conditions\": [\"COPD\", \"Pneumothorax\", \"Pulmonary embolism\", \"Asthma\"], \"Symptoms\": [\"Chronic cough with sputum\", \"Sudden chest pain and dyspnea\", \"Tachycardia and hypoxia\", \"Wheezing\"]}",
+    "correct_answer": "{\"COPD\": \"Chronic cough with sputum\", \"Pneumothorax\": \"Sudden chest pain and dyspnea\", \"Pulmonary embolism\": \"Tachycardia and hypoxia\", \"Asthma\": \"Wheezing\"}",
+    "rationale": "Each condition has a distinct primary symptom reflecting its pathophysiology."
+  },
+  {
+    "id": "MC-012",
+    "item_type": "Multiple Choice",
+    "scenario": "A patient with depression",
+    "stem": "A nurse is caring for a patient with depression. Which statement by the patient requires immediate follow-up?",
+    "options": "[\"A) 'I feel tired all the time.'\", \"B) 'I don\\u00e2\\u20ac\\u2122t enjoy anything anymore.'\", \"C) 'I have a plan to end my life.'\", \"D) 'I haven\\u00e2\\u20ac\\u2122t been sleeping well.'\"]",
+    "correct_answer": "C) 'I have a plan to end my life.'",
+    "rationale": "A specific suicide plan indicates high risk and requires immediate intervention."
+  },
+  {
+    "id": "SATA-007",
+    "item_type": "Select All That Apply",
+    "scenario": "A patient with chemotherapy",
+    "stem": "A nurse is caring for a patient receiving chemotherapy. Which precautions should the nurse take? Select all that apply.",
+    "options": "[\"A) Wear gloves when handling bodily fluids\", \"B) Dispose of chemotherapy waste in a biohazard container\", \"C) Use a gown when administering IV chemotherapy\", \"D) Flush the toilet twice after patient use\", \"E) Allow family to handle linens without precautions\"]",
+    "correct_answer": "[\"A) Wear gloves when handling bodily fluids\", \"B) Dispose of chemotherapy waste in a biohazard container\", \"C) Use a gown when administering IV chemotherapy\"]",
+    "rationale": "Protective equipment and proper waste disposal prevent exposure to hazardous drugs. Flushing twice is unnecessary, and family should use precautions."
+  },
+  {
+    "id": "FIB-007",
+    "item_type": "Fill-in-the-Blank",
+    "scenario": "A patient with acetaminophen overdose",
+    "stem": "A patient is prescribed acetylcysteine 140 mg/kg IV for acetaminophen overdose. The patient weighs 70 kg. How many mg should the nurse administer?",
+    "options": "[]",
+    "correct_answer": "9800 mg",
+    "rationale": "Calculation: 140 mg/kg \u00c3\u2014 70 kg = 9800 mg"
+  },
+  {
+    "id": "ORD-004",
+    "item_type": "Ordered Response",
+    "scenario": "A patient with a nasogastric tube",
+    "stem": "Place the steps for inserting an NG tube in the correct order:",
+    "options": "[\"A) Measure from nose to earlobe to xiphoid\", \"B) Lubricate the tube\", \"C) Secure the tube\", \"D) Insert tube through nostril\", \"E) Confirm placement with X-ray\"]",
+    "correct_answer": "[\"A\", \"B\", \"D\", \"E\", \"C\"]",
+    "rationale": "Measure length, lubricate, insert, confirm placement, then secure the tube."
+  },
+  {
+    "id": "HS-004",
+    "item_type": "Hot Spot",
+    "scenario": "A patient requiring a pulse check",
+    "stem": "A nurse is checking a patient\u00e2\u20ac\u2122s radial pulse. Identify the correct location.",
+    "options": "[\"Image of wrist with pulse points\"]",
+    "correct_answer": "Radial artery on the thumb side of the wrist",
+    "rationale": "The radial pulse is palpated on the thumb side of the wrist over the radial artery."
+  },
+  {
+    "id": "EXH-004",
+    "item_type": "Exhibit",
+    "scenario": "A patient with thyroid dysfunction",
+    "stem": "A nurse reviews the following labs. Which condition is suggested?",
+    "options": "[\"Exhibit: TSH 0.1 mIU/L, Free T4 2.5 ng/dL\", \"A) Hypothyroidism\", \"B) Hyperthyroidism\", \"C) Diabetes mellitus\", \"D) Adrenal insufficiency\"]",
+    "correct_answer": "B) Hyperthyroidism",
+    "rationale": "Low TSH and high Free T4 indicate hyperthyroidism due to excessive thyroid hormone production."
+  },
+  {
+    "id": "GRA-004",
+    "item_type": "Graphic",
+    "scenario": "A patient with a pressure injury",
+    "stem": "A nurse is assessing a pressure injury. Which stage is shown in the image?",
+    "options": "[\"A) Stage 1\", \"B) Stage 2\", \"C) Stage 3\", \"D) Stage 4\"]",
+    "correct_answer": "B) Stage 2",
+    "rationale": "Stage 2 involves partial-thickness skin loss with a shallow open ulcer or blister."
+  },
+  {
+    "id": "BT-004",
+    "item_type": "Bow-Tie",
+    "scenario": "A patient with sepsis",
+    "stem": "For a patient with sepsis, select two actions, two parameters to monitor, and two potential complications.",
+    "options": "{\"Actions\": [\"Administer antibiotics\", \"Initiate IV fluids\", \"Restrict oxygen\", \"Administer vasopressors\"], \"Parameters\": [\"Temperature\", \"White blood cell count\", \"Blood pressure\", \"Urine output\"], \"Complications\": [\"Septic shock\", \"Organ failure\", \"Pulmonary edema\", \"Hyperglycemia\"]}",
+    "correct_answer": "{\"Actions\": [\"Administer antibiotics\", \"Initiate IV fluids\"], \"Parameters\": [\"Blood pressure\", \"Urine output\"], \"Complications\": [\"Septic shock\", \"Organ failure\"]}",
+    "rationale": "Antibiotics treat infection, fluids improve perfusion, BP and urine output monitor response, and septic shock or organ failure are risks."
+  },
+  {
+    "id": "HT-005",
+    "item_type": "Highlight Text",
+    "scenario": "A patient with diabetes education",
+    "stem": "Highlight the parts of these instructions that are incorrect:",
+    "options": "[\"Check your blood sugar only when you feel sick. Inject insulin into the same site each time. Eat a balanced diet. Exercise regularly. Report signs of infection.\"]",
+    "correct_answer": "[\"Check your blood sugar only when you feel sick\", \"Inject insulin into the same site each time\"]",
+    "rationale": "Blood sugar should be checked regularly, and injection sites rotated to prevent lipodystrophy."
+  },
+  {
+    "id": "MG-005",
+    "item_type": "Matrix/Grid",
+    "scenario": "Patients with cardiac medications",
+    "stem": "Match each medication with its primary indication:",
+    "options": "{\"Medications\": [\"Nitroglycerin\", \"Digoxin\", \"Atenolol\", \"Heparin\"], \"Indications\": [\"Angina\", \"Heart failure\", \"Hypertension\", \"Thrombosis prevention\"]}",
+    "correct_answer": "{\"Nitroglycerin\": \"Angina\", \"Digoxin\": \"Heart failure\", \"Atenolol\": \"Hypertension\", \"Heparin\": \"Thrombosis prevention\"}",
+    "rationale": "Each medication targets a specific cardiac condition based on its mechanism."
+  },
+  {
+    "id": "MC-013",
+    "item_type": "Multiple Choice",
+    "scenario": "A patient with a fractured femur",
+    "stem": "A nurse is caring for a patient in skeletal traction. Which action is most important?",
+    "options": "[\"A) Remove weights to reposition the patient\", \"B) Ensure weights hang freely\", \"C) Adjust the traction daily\", \"D) Massage the affected leg\"]",
+    "correct_answer": "B) Ensure weights hang freely",
+    "rationale": "Weights must hang freely to maintain proper traction alignment and effectiveness."
+  },
+  {
+    "id": "SATA-008",
+    "item_type": "Select All That Apply",
+    "scenario": "A patient with COPD",
+    "stem": "A nurse is planning care for a patient with COPD. Which interventions should be included? Select all that apply.",
+    "options": "[\"A) Pursed-lip breathing instruction\", \"B) High-flow oxygen via nasal cannula\", \"C) Encourage smoking cessation\", \"D) Administer bronchodilators as prescribed\", \"E) Position in supine position\"]",
+    "correct_answer": "[\"A) Pursed-lip breathing instruction\", \"C) Encourage smoking cessation\", \"D) Administer bronchodilators as prescribed\"]",
+    "rationale": "Pursed-lip breathing improves expiration, smoking cessation slows progression, and bronchodilators relieve symptoms. High-flow oxygen risks CO2 retention, and supine positioning impairs breathing."
+  },
+  {
+    "id": "FIB-008",
+    "item_type": "Fill-in-the-Blank",
+    "scenario": "A patient with digoxin",
+    "stem": "A patient is prescribed digoxin 0.25 mg IV. Available is digoxin 0.5 mg/2 mL. How many mL should the nurse administer?",
+    "options": "[]",
+    "correct_answer": "1 mL",
+    "rationale": "Calculation: (0.25 mg \u00c3\u00b7 0.5 mg) \u00c3\u2014 2 mL = 1 mL"
+  },
+  {
+    "id": "ORD-005",
+    "item_type": "Ordered Response",
+    "scenario": "A patient with wound care",
+    "stem": "Place the steps for changing a sterile dressing in the correct order:",
+    "options": "[\"A) Apply sterile gloves\", \"B) Remove old dressing\", \"C) Cleanse the wound\", \"D) Apply new dressing\", \"E) Assess the wound\"]",
+    "correct_answer": "[\"E\", \"B\", \"A\", \"C\", \"D\"]",
+    "rationale": "Assess first, remove dressing, apply gloves for sterility, cleanse, then apply new dressing."
+  },
+  {
+    "id": "HS-005",
+    "item_type": "Hot Spot",
+    "scenario": "A patient requiring an IV insertion",
+    "stem": "A nurse is inserting an IV catheter. Identify the appropriate vein in the forearm.",
+    "options": "[\"Image of forearm with veins\"]",
+    "correct_answer": "Cephalic vein",
+    "rationale": "The cephalic vein is large, accessible, and suitable for IV insertion."
+  },
+  {
+    "id": "EXH-005",
+    "item_type": "Exhibit",
+    "scenario": "A patient with electrolyte imbalance",
+    "stem": "A nurse reviews the following labs. Which condition is indicated?",
+    "options": "[\"Exhibit: Potassium 6.0 mEq/L, ECG with peaked T waves\", \"A) Hypokalemia\", \"B) Hyperkalemia\", \"C) Hyponatremia\", \"D) Hypercalcemia\"]",
+    "correct_answer": "B) Hyperkalemia",
+    "rationale": "Elevated potassium and peaked T waves on ECG are classic signs of hyperkalemia."
+  },
+  {
+    "id": "GRA-005",
+    "item_type": "Graphic",
+    "scenario": "A patient with edema",
+    "stem": "A nurse is assessing pitting edema. Which grade is shown in the image?",
+    "options": "[\"A) 1+\", \"B) 2+\", \"C) 3+\", \"D) 4+\"]",
+    "correct_answer": "B) 2+",
+    "rationale": "2+ edema shows a 4 mm indentation that resolves quickly."
+  },
+  {
+    "id": "BT-005",
+    "item_type": "Bow-Tie",
+    "scenario": "A patient with preeclampsia",
+    "stem": "For a patient with preeclampsia, select two actions, two parameters to monitor, and two potential complications.",
+    "options": "{\"Actions\": [\"Administer magnesium sulfate\", \"Restrict activity\", \"Increase sodium intake\", \"Monitor fetal heart rate\"], \"Parameters\": [\"Blood pressure\", \"Urine protein\", \"Respiratory rate\", \"Weight\"], \"Complications\": [\"Seizures\", \"HELLP syndrome\", \"Hypoglycemia\", \"Pulmonary edema\"]}",
+    "correct_answer": "{\"Actions\": [\"Administer magnesium sulfate\", \"Restrict activity\"], \"Parameters\": [\"Blood pressure\", \"Urine protein\"], \"Complications\": [\"Seizures\", \"HELLP syndrome\"]}",
+    "rationale": "Magnesium prevents seizures, activity restriction reduces stress, BP and protein monitor severity, and seizures or HELLP are risks."
+  },
+  {
+    "id": "HT-006",
+    "item_type": "Highlight Text",
+    "scenario": "A patient with a surgical complication",
+    "stem": "Highlight the parts of this note that suggest a postoperative complication:",
+    "options": "[\"Patient reports mild pain at incision. Wound edges red and warm. Drains 50 mL serous fluid. BP 120/80 mmHg. Temp 38.5\\u00c2\\u00b0C.\"]",
+    "correct_answer": "[\"Wound edges red and warm\", \"Temp 38.5\\u00c2\\u00b0C\"]",
+    "rationale": "Redness, warmth, and fever suggest infection or inflammation at the surgical site."
+  },
+  {
+    "id": "MG-006",
+    "item_type": "Matrix/Grid",
+    "scenario": "Patients with psychiatric medications",
+    "stem": "Match each medication with its therapeutic class:",
+    "options": "{\"Medications\": [\"Fluoxetine\", \"Lorazepam\", \"Risperidone\", \"Lithium\"], \"Classes\": [\"SSRI\", \"Benzodiazepine\", \"Antipsychotic\", \"Mood stabilizer\"]}",
+    "correct_answer": "{\"Fluoxetine\": \"SSRI\", \"Lorazepam\": \"Benzodiazepine\", \"Risperidone\": \"Antipsychotic\", \"Lithium\": \"Mood stabilizer\"}",
+    "rationale": "Each medication belongs to a specific class based on its mechanism and use."
+  },
+  {
+    "id": "MC-014",
+    "item_type": "Multiple Choice",
+    "scenario": "A patient with a head injury",
+    "stem": "A nurse is monitoring a patient with a traumatic brain injury. Which finding indicates increased intracranial pressure?",
+    "options": "[\"A) Blood pressure 140/90 mmHg\", \"B) Pulse 50 beats/minute\", \"C) Respiratory rate 18 breaths/minute\", \"D) Temperature 37\\u00c2\\u00b0C (98.6\\u00c2\\u00b0F)\"]",
+    "correct_answer": "B) Pulse 50 beats/minute",
+    "rationale": "Bradycardia is a sign of Cushing\u00e2\u20ac\u2122s triad (hypertension, bradycardia, irregular breathing) indicating increased intracranial pressure."
+  },
+  {
+    "id": "SATA-009",
+    "item_type": "Select All That Apply",
+    "scenario": "A patient with a new pacemaker",
+    "stem": "A nurse is educating a patient with a new pacemaker. Which instructions should be included? Select all that apply.",
+    "options": "[\"A) Avoid lifting the affected arm above shoulder level for 6 weeks\", \"B) Report signs of infection at the site\", \"C) Use microwave ovens without restriction\", \"D) Avoid strong magnetic fields\", \"E) Check pulse daily\"]",
+    "correct_answer": "[\"A) Avoid lifting the affected arm above shoulder level for 6 weeks\", \"B) Report signs of infection at the site\", \"D) Avoid strong magnetic fields\", \"E) Check pulse daily\"]",
+    "rationale": "Arm restriction prevents dislodgement, infection must be monitored, magnetic fields interfere with function, and pulse checks ensure proper pacing. Microwaves are safe."
+  },
+  {
+    "id": "FIB-009",
+    "item_type": "Fill-in-the-Blank",
+    "scenario": "A patient with antibiotic therapy",
+    "stem": "A child weighing 10 kg is prescribed ceftriaxone 100 mg/kg/day IV in two divided doses. How many mg should the nurse administer per dose?",
+    "options": "[]",
+    "correct_answer": "500 mg",
+    "rationale": "Calculation: 10 kg \u00c3\u2014 100 mg/kg/day = 1000 mg/day. Divided by 2 doses = 500 mg/dose."
+  },
+  {
+    "id": "ORD-006",
+    "item_type": "Ordered Response",
+    "scenario": "A patient with a code blue",
+    "stem": "Place the steps for responding to a code blue in the correct order:",
+    "options": "[\"A) Start chest compressions\", \"B) Assess for pulse\", \"C) Call the code team\", \"D) Attach defibrillator pads\", \"E) Check responsiveness\"]",
+    "correct_answer": "[\"E\", \"B\", \"C\", \"A\", \"D\"]",
+    "rationale": "Check responsiveness, assess pulse, call for help, start compressions, then attach defibrillator."
+  },
+  {
+    "id": "HS-006",
+    "item_type": "Hot Spot",
+    "scenario": "A patient requiring an apical pulse",
+    "stem": "A nurse is assessing a patient\u00e2\u20ac\u2122s apical pulse. Identify the correct location.",
+    "options": "[\"Image of chest with pulse points\"]",
+    "correct_answer": "Fifth intercostal space, midclavicular line",
+    "rationale": "The apical pulse is located at the fifth intercostal space, midclavicular line, over the apex of the heart."
+  },
+  {
+    "id": "EXH-006",
+    "item_type": "Exhibit",
+    "scenario": "A patient with dehydration",
+    "stem": "A nurse reviews the following labs. Which condition is indicated?",
+    "options": "[\"Exhibit: Sodium 150 mEq/L, BUN 30 mg/dL, Creatinine 1.2 mg/dL\", \"A) Hypernatremia\", \"B) Hyponatremia\", \"C) Metabolic acidosis\", \"D) Renal failure\"]",
+    "correct_answer": "A) Hypernatremia",
+    "rationale": "Elevated sodium and BUN with normal creatinine suggest dehydration leading to hypernatremia."
+  },
+  {
+    "id": "GRA-006",
+    "item_type": "Graphic",
+    "scenario": "A patient with a cardiac rhythm",
+    "stem": "A nurse is interpreting an ECG strip. Which rhythm is shown?",
+    "options": "[\"A) Sinus bradycardia\", \"B) Sinus tachycardia\", \"C) Ventricular fibrillation\", \"D) Atrial flutter\"]",
+    "correct_answer": "A) Sinus bradycardia",
+    "rationale": "Sinus bradycardia shows a regular rhythm with a rate below 60 bpm and normal P, QRS, and T waves."
+  },
+  {
+    "id": "BT-006",
+    "item_type": "Bow-Tie",
+    "scenario": "A patient with a GI bleed",
+    "stem": "For a patient with a gastrointestinal bleed, select two actions, two parameters to monitor, and two potential complications.",
+    "options": "{\"Actions\": [\"Administer IV fluids\", \"Insert an NG tube\", \"Restrict all fluids\", \"Administer oxygen\"], \"Parameters\": [\"Hematocrit\", \"Blood pressure\", \"Heart rate\", \"Oxygen saturation\"], \"Complications\": [\"Hypovolemic shock\", \"Anemia\", \"Seizures\", \"Pulmonary edema\"]}",
+    "correct_answer": "{\"Actions\": [\"Administer IV fluids\", \"Insert an NG tube\"], \"Parameters\": [\"Hematocrit\", \"Blood pressure\"], \"Complications\": [\"Hypovolemic shock\", \"Anemia\"]}",
+    "rationale": "Fluids replace volume, NG tube assesses bleeding, hematocrit and BP monitor blood loss, and shock or anemia are risks."
+  },
+  {
+    "id": "HT-007",
+    "item_type": "Highlight Text",
+    "scenario": "A patient with a respiratory issue",
+    "stem": "Highlight the parts of this note that suggest respiratory distress:",
+    "options": "[\"Patient reports fatigue. RR 28 breaths/min. SPO2 88% on room air. Using accessory muscles. Temp 37.2\\u00c2\\u00b0C.\"]",
+    "correct_answer": "[\"RR 28 breaths/min\", \"SPO2 88% on room air\", \"Using accessory muscles\"]",
+    "rationale": "Tachypnea, low oxygen saturation, and accessory muscle use indicate respiratory distress."
+  },
+  {
+    "id": "MG-007",
+    "item_type": "Matrix/Grid",
+    "scenario": "Patients with IV fluids",
+    "stem": "Match each IV fluid with its primary use:",
+    "options": "{\"Fluids\": [\"0.9% NaCl\", \"D5W\", \"Lactated Ringer\\u00e2\\u20ac\\u2122s\", \"3% NaCl\"], \"Uses\": [\"Volume expansion\", \"Hypoglycemia\", \"Electrolyte balance\", \"Hypernatremia correction\"]}",
+    "correct_answer": "{\"0.9% NaCl\": \"Volume expansion\", \"D5W\": \"Hypoglycemia\", \"Lactated Ringer\\u00e2\\u20ac\\u2122s\": \"Electrolyte balance\", \"3% NaCl\": \"Hypernatremia correction\"}",
+    "rationale": "Each fluid has a specific clinical purpose based on its composition."
+  },
+  {
+    "id": "MC-015",
+    "item_type": "Multiple Choice",
+    "scenario": "A patient with glaucoma",
+    "stem": "A nurse is teaching a patient with glaucoma about eye drop administration. Which instruction is correct?",
+    "options": "[\"A) 'Apply pressure to the outer corner of the eye after instilling drops.'\", \"B) 'Instill drops directly onto the cornea.'\", \"C) 'Use the same bottle for both eyes if infected.'\", \"D) 'Blink rapidly after instilling to spread the medication.'\"]",
+    "correct_answer": "C) 'Apply pressure to the inner corner of the eye after instilling drops.'",
+    "rationale": "Pressure on the nasolacrimal duct (inner corner) prevents systemic absorption. The original option A was incorrect; corrected to reflect proper technique."
+  },
+  {
+    "id": "SATA-010",
+    "item_type": "Select All That Apply",
+    "scenario": "A patient with a cast",
+    "stem": "A nurse is assessing a patient with a new leg cast. Which findings should be reported? Select all that apply.",
+    "options": "[\"A) Tingling in the toes\", \"B) Swelling not relieved by elevation\", \"C) Pain relieved by medication\", \"D) Foul odor from the cast\", \"E) Capillary refill of 2 seconds\"]",
+    "correct_answer": "[\"A) Tingling in the toes\", \"B) Swelling not relieved by elevation\", \"D) Foul odor from the cast\"]",
+    "rationale": "Tingling suggests nerve compression, unrelieved swelling indicates circulation issues, and odor suggests infection. Pain relief and normal refill are expected."
+  },
+  {
+    "id": "FIB-010",
+    "item_type": "Fill-in-the-Blank",
+    "scenario": "A patient with potassium replacement",
+    "stem": "A patient is prescribed potassium chloride 20 mEq IV over 1 hour. Available is 40 mEq/100 mL. How many mL should the nurse administer?",
+    "options": "[]",
+    "correct_answer": "50 mL",
+    "rationale": "Calculation: (20 mEq \u00c3\u00b7 40 mEq) \u00c3\u2014 100 mL = 50 mL"
+  },
+  {
+    "id": "ORD-007",
+    "item_type": "Ordered Response",
+    "scenario": "A patient with handwashing",
+    "stem": "Place the steps for handwashing in the correct order:",
+    "options": "[\"A) Turn off the faucet with a paper towel\", \"B) Lather hands with soap\", \"C) Rinse hands under running water\", \"D) Wet hands with water\", \"E) Dry hands with a clean towel\"]",
+    "correct_answer": "[\"D\", \"B\", \"C\", \"E\", \"A\"]",
+    "rationale": "Wet hands, apply soap, rinse, dry, then turn off faucet to prevent recontamination."
+  },
+  {
+    "id": "HS-007",
+    "item_type": "Hot Spot",
+    "scenario": "A patient requiring a temperature check",
+    "stem": "A nurse is taking an oral temperature. Identify the correct placement of the thermometer.",
+    "options": "[\"Image of mouth with thermometer placement\"]",
+    "correct_answer": "Under the tongue in the posterior sublingual pocket",
+    "rationale": "The posterior sublingual pocket provides the most accurate oral temperature reading."
+  },
+  {
+    "id": "EXH-007",
+    "item_type": "Exhibit",
+    "scenario": "A patient with respiratory failure",
+    "stem": "A nurse reviews the following arterial blood gas results. Which condition is indicated?",
+    "options": "[\"Exhibit: pH 7.28, PaCO2 55 mmHg, HCO3- 25 mEq/L\", \"A) Respiratory acidosis\", \"B) Respiratory alkalosis\", \"C) Metabolic acidosis\", \"D) Metabolic alkalosis\"]",
+    "correct_answer": "A) Respiratory acidosis",
+    "rationale": "Low pH and high PaCO2 with normal HCO3- indicate uncompensated respiratory acidosis."
+  },
+  {
+    "id": "GRA-007",
+    "item_type": "Graphic",
+    "scenario": "A patient with a lung sound",
+    "stem": "A nurse is auscultating lung sounds. Which sound is indicated by the audio?",
+    "options": "[\"A) Fine crackles\", \"B) Wheezes\", \"C) Rhonchi\", \"D) Pleural friction rub\"]",
+    "correct_answer": "A) Fine crackles",
+    "rationale": "Fine crackles are high-pitched popping sounds, often heard in conditions like heart failure or pneumonia."
+  },
+  {
+    "id": "BT-007",
+    "item_type": "Bow-Tie",
+    "scenario": "A patient with a pulmonary embolism",
+    "stem": "For a patient with a pulmonary embolism, select two actions, two parameters to monitor, and two potential complications.",
+    "options": "{\"Actions\": [\"Administer heparin\", \"Provide oxygen\", \"Restrict movement\", \"Administer diuretics\"], \"Parameters\": [\"Oxygen saturation\", \"Heart rate\", \"Respiratory rate\", \"Blood pressure\"], \"Complications\": [\"Right heart failure\", \"Hypoxemia\", \"Seizures\", \"Renal failure\"]}",
+    "correct_answer": "{\"Actions\": [\"Administer heparin\", \"Provide oxygen\"], \"Parameters\": [\"Oxygen saturation\", \"Respiratory rate\"], \"Complications\": [\"Right heart failure\", \"Hypoxemia\"]}",
+    "rationale": "Heparin prevents clot growth, oxygen improves hypoxemia, saturation and respiratory rate monitor status, and heart failure or hypoxemia are risks."
+  },
+  {
+    "id": "HT-008",
+    "item_type": "Highlight Text",
+    "scenario": "A patient with a medication reaction",
+    "stem": "Highlight the parts of this note that suggest an adverse reaction:",
+    "options": "[\"Patient received penicillin at 0900. At 0915, reports itching and rash on arms. BP 130/85 mmHg. HR 88 bpm.\"]",
+    "correct_answer": "[\"reports itching and rash on arms\"]",
+    "rationale": "Itching and rash suggest an allergic reaction to penicillin."
+  },
+  {
+    "id": "MG-008",
+    "item_type": "Matrix/Grid",
+    "scenario": "Patients with pediatric conditions",
+    "stem": "Match each pediatric condition with its primary symptom:",
+    "options": "{\"Conditions\": [\"Croup\", \"Epiglottitis\", \"Tonsillitis\", \"Bronchiolitis\"], \"Symptoms\": [\"Barking cough\", \"Drooling and stridor\", \"Sore throat\", \"Wheezing\"]}",
+    "correct_answer": "{\"Croup\": \"Barking cough\", \"Epiglottitis\": \"Drooling and stridor\", \"Tonsillitis\": \"Sore throat\", \"Bronchiolitis\": \"Wheezing\"}",
+    "rationale": "Each condition has a distinct symptom reflecting its pathology."
+  }
+]

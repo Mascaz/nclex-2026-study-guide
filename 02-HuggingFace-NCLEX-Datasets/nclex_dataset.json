@@ -1,0 +1,319 @@
+[
+  {
+    "scenario": "A patient with pneumonia",
+    "item_type": "Multiple Choice",
+    "stem": "A nurse is caring for a patient with pneumonia. What is the priority nursing intervention?",
+    "options": [
+      "A) Administer antibiotics as prescribed",
+      "B) Encourage bed rest without repositioning",
+      "C) Administer a bronchodilator",
+      "D) Restrict fluid intake"
+    ],
+    "correct_answer": "A) Administer antibiotics as prescribed",
+    "rationale": "Antibiotics treat the bacterial cause of pneumonia, making it the priority.",
+    "full_question": "Stem: A nurse is caring for a patient with pneumonia. What is the priority nursing intervention?\nA) Administer antibiotics as prescribed\nB) Encourage bed rest without repositioning\nC) Administer a bronchodilator\nD) Restrict fluid intake\nCorrect Answer: A) Administer antibiotics as prescribed\nRationale: Antibiotics treat the bacterial cause of pneumonia, making it the priority."
+  },
+  {
+    "scenario": "A patient with type 2 diabetes",
+    "item_type": "Multiple Choice",
+    "stem": "A nurse is teaching a patient with type 2 diabetes about diet. Which food should the patient limit?",
+    "options": [
+      "A) Whole grains",
+      "B) Sugary desserts",
+      "C) Lean proteins",
+      "D) Non-starchy vegetables"
+    ],
+    "correct_answer": "B) Sugary desserts",
+    "rationale": "Sugary foods raise blood glucose rapidly, which is harmful in diabetes management.",
+    "full_question": "Stem: A nurse is teaching a patient with type 2 diabetes about diet. Which food should the patient limit?\nA) Whole grains\nB) Sugary desserts\nC) Lean proteins\nD) Non-starchy vegetables\nCorrect Answer: B) Sugary desserts\nRationale: Sugary foods raise blood glucose rapidly, which is harmful in diabetes management."
+  },
+  {
+    "scenario": "A postoperative patient",
+    "item_type": "Multiple Choice",
+    "stem": "A nurse is monitoring a postoperative patient. Which finding indicates a potential complication?",
+    "options": [
+      "A) Clear lung sounds",
+      "B) Temperature of 38.5\u00c2\u00b0C (101.3\u00c2\u00b0F)",
+      "C) Urine output of 50 mL/hr",
+      "D) Pain rating of 2/10"
+    ],
+    "correct_answer": "B) Temperature of 38.5\u00c2\u00b0C (101.3\u00c2\u00b0F)",
+    "rationale": "Fever may signal infection, a common postoperative complication.",
+    "full_question": "Stem: A nurse is monitoring a postoperative patient. Which finding indicates a potential complication?\nA) Clear lung sounds\nB) Temperature of 38.5\u00c2\u00b0C (101.3\u00c2\u00b0F)\nC) Urine output of 50 mL/hr\nD) Pain rating of 2/10\nCorrect Answer: B) Temperature of 38.5\u00c2\u00b0C (101.3\u00c2\u00b0F)\nRationale: Fever may signal infection, a common postoperative complication."
+  },
+  {
+    "scenario": "A child with asthma",
+    "item_type": "Multiple Choice",
+    "stem": "A nurse is caring for a child with an asthma exacerbation. What is the first action?",
+    "options": [
+      "A) Administer a bronchodilator",
+      "B) Start oxygen therapy",
+      "C) Teach pursed-lip breathing",
+      "D) Obtain a chest X-ray"
+    ],
+    "correct_answer": "A) Administer a bronchodilator",
+    "rationale": "Bronchodilators relieve acute airway constriction in asthma.",
+    "full_question": "Stem: A nurse is caring for a child with an asthma exacerbation. What is the first action?\nA) Administer a bronchodilator\nB) Start oxygen therapy\nC) Teach pursed-lip breathing\nD) Obtain a chest X-ray\nCorrect Answer: A) Administer a bronchodilator\nRationale: Bronchodilators relieve acute airway constriction in asthma."
+  },
+  {
+    "scenario": "A patient with hypertension",
+    "item_type": "Multiple Choice",
+    "stem": "A nurse is caring for a patient with hypertension. What should the nurse monitor most closely?",
+    "options": [
+      "A) Blood pressure",
+      "B) Respiratory rate",
+      "C) Temperature",
+      "D) Urine output"
+    ],
+    "correct_answer": "A) Blood pressure",
+    "rationale": "Hypertension is defined by elevated blood pressure, making it the primary focus.",
+    "full_question": "Stem: A nurse is caring for a patient with hypertension. What should the nurse monitor most closely?\nA) Blood pressure\nB) Respiratory rate\nC) Temperature\nD) Urine output\nCorrect Answer: A) Blood pressure\nRationale: Hypertension is defined by elevated blood pressure, making it the primary focus."
+  },
+  {
+    "scenario": "A patient with a stroke",
+    "item_type": "Multiple Choice",
+    "stem": "A nurse is assessing a patient with a recent stroke. Which finding indicates a need for immediate intervention?",
+    "options": [
+      "A) Unequal pupil size",
+      "B) Blood pressure of 130/80 mmHg",
+      "C) Speech that is slightly slurred",
+      "D) Weakness on one side"
+    ],
+    "correct_answer": "A) Unequal pupil size",
+    "rationale": "Unequal pupils may indicate increased intracranial pressure, a critical complication.",
+    "full_question": "Stem: A nurse is assessing a patient with a recent stroke. Which finding indicates a need for immediate intervention?\nA) Unequal pupil size\nB) Blood pressure of 130/80 mmHg\nC) Speech that is slightly slurred\nD) Weakness on one side\nCorrect Answer: A) Unequal pupil size\nRationale: Unequal pupils may indicate increased intracranial pressure, a critical complication."
+  },
+  {
+    "scenario": "A patient with COPD",
+    "item_type": "Multiple Choice",
+    "stem": "A nurse is caring for a patient with COPD. Which oxygen delivery method is most appropriate?",
+    "options": [
+      "A) High-flow mask at 10 L/min",
+      "B) Nasal cannula at 2 L/min",
+      "C) Non-rebreather mask",
+      "D) Venturi mask at 40% FiO2"
+    ],
+    "correct_answer": "B) Nasal cannula at 2 L/min",
+    "rationale": "Low-flow oxygen prevents CO2 retention in COPD patients.",
+    "full_question": "Stem: A nurse is caring for a patient with COPD. Which oxygen delivery method is most appropriate?\nA) High-flow mask at 10 L/min\nB) Nasal cannula at 2 L/min\nC) Non-rebreather mask\nD) Venturi mask at 40% FiO2\nCorrect Answer: B) Nasal cannula at 2 L/min\nRationale: Low-flow oxygen prevents CO2 retention in COPD patients."
+  },
+  {
+    "scenario": "A pregnant woman in labor",
+    "item_type": "Multiple Choice",
+    "stem": "A nurse is monitoring a woman in labor. Which finding requires immediate reporting?",
+    "options": [
+      "A) Fetal heart rate of 110 bpm",
+      "B) Contractions every 5 minutes",
+      "C) Fetal heart rate of 90 bpm",
+      "D) Maternal BP of 120/80 mmHg"
+    ],
+    "correct_answer": "C) Fetal heart rate of 90 bpm",
+    "rationale": "A rate below 110 bpm may indicate fetal distress.",
+    "full_question": "Stem: A nurse is monitoring a woman in labor. Which finding requires immediate reporting?\nA) Fetal heart rate of 110 bpm\nB) Contractions every 5 minutes\nC) Fetal heart rate of 90 bpm\nD) Maternal BP of 120/80 mmHg\nCorrect Answer: C) Fetal heart rate of 90 bpm\nRationale: A rate below 110 bpm may indicate fetal distress."
+  },
+  {
+    "scenario": "A patient with renal failure",
+    "item_type": "Multiple Choice",
+    "stem": "A nurse is caring for a patient with renal failure. Which electrolyte imbalance should the nurse monitor?",
+    "options": [
+      "A) Hypokalemia",
+      "B) Hyperkalemia",
+      "C) Hyponatremia",
+      "D) Hypocalcemia"
+    ],
+    "correct_answer": "B) Hyperkalemia",
+    "rationale": "Kidneys excrete potassium; failure leads to accumulation.",
+    "full_question": "Stem: A nurse is caring for a patient with renal failure. Which electrolyte imbalance should the nurse monitor?\nA) Hypokalemia\nB) Hyperkalemia\nC) Hyponatremia\nD) Hypocalcemia\nCorrect Answer: B) Hyperkalemia\nRationale: Kidneys excrete potassium; failure leads to accumulation."
+  },
+  {
+    "scenario": "A patient with a burn injury",
+    "item_type": "Multiple Choice",
+    "stem": "A nurse is caring for a patient with a burn injury. What is the priority intervention?",
+    "options": [
+      "A) Apply ice to the burn",
+      "B) Administer IV fluids",
+      "C) Cover with a dry dressing",
+      "D) Elevate the affected area"
+    ],
+    "correct_answer": "B) Administer IV fluids",
+    "rationale": "Fluid resuscitation prevents hypovolemic shock in burn patients.",
+    "full_question": "Stem: A nurse is caring for a patient with a burn injury. What is the priority intervention?\nA) Apply ice to the burn\nB) Administer IV fluids\nC) Cover with a dry dressing\nD) Elevate the affected area\nCorrect Answer: B) Administer IV fluids\nRationale: Fluid resuscitation prevents hypovolemic shock in burn patients."
+  },
+  {
+    "scenario": "A patient with heart failure",
+    "item_type": "Select All That Apply",
+    "stem": "A nurse is assessing a patient with heart failure. Which findings should the nurse expect?",
+    "options": [
+      "A) Jugular vein distension",
+      "B) Peripheral edema",
+      "C) Bradycardia",
+      "D) Crackles in lungs",
+      "E) Weight loss"
+    ],
+    "correct_answer": "",
+    "rationale": "Heart failure causes fluid overload, leading to JVD, edema, and lung crackles.",
+    "full_question": "Stem: A nurse is assessing a patient with heart failure. Which findings should the nurse expect?\nA) Jugular vein distension\nB) Peripheral edema\nC) Bradycardia\nD) Crackles in lungs\nE) Weight loss\nCorrect Answers: A, B, D\nRationale: Heart failure causes fluid overload, leading to JVD, edema, and lung crackles."
+  },
+  {
+    "scenario": "A patient with sepsis",
+    "item_type": "Select All That Apply",
+    "stem": "A nurse is caring for a patient with sepsis. Which interventions should be included?",
+    "options": [
+      "A) Administer IV antibiotics",
+      "B) Monitor vital signs frequently",
+      "C) Restrict fluids",
+      "D) Obtain blood cultures",
+      "E) Encourage ambulation"
+    ],
+    "correct_answer": "",
+    "rationale": "Antibiotics, monitoring, and cultures are critical; fluid restriction and ambulation are not.",
+    "full_question": "Stem: A nurse is caring for a patient with sepsis. Which interventions should be included?\nA) Administer IV antibiotics\nB) Monitor vital signs frequently\nC) Restrict fluids\nD) Obtain blood cultures\nE) Encourage ambulation\nCorrect Answers: A, B, D\nRationale: Antibiotics, monitoring, and cultures are critical; fluid restriction and ambulation are not."
+  },
+  {
+    "scenario": "A patient with diabetes mellitus",
+    "item_type": "Select All That Apply",
+    "stem": "A nurse is teaching a patient with diabetes mellitus about foot care. Which instructions should be included?",
+    "options": [
+      "A) Inspect feet daily",
+      "B) Use heating pads on feet",
+      "C) Wear well-fitting shoes",
+      "D) Soak feet in hot water",
+      "E) Trim nails straight across"
+    ],
+    "correct_answer": "",
+    "rationale": "Daily inspection, proper shoes, and nail care prevent injury; heat and soaking increase risk.",
+    "full_question": "Stem: A nurse is teaching a patient with diabetes mellitus about foot care. Which instructions should be included?\nA) Inspect feet daily\nB) Use heating pads on feet\nC) Wear well-fitting shoes\nD) Soak feet in hot water\nE) Trim nails straight across\nCorrect Answers: A, C, E\nRationale: Daily inspection, proper shoes, and nail care prevent injury; heat and soaking increase risk."
+  },
+  {
+    "scenario": "A patient receiving IV fluids",
+    "item_type": "Fill-in-the-Blank",
+    "stem": "A patient is receiving 1000 mL of IV fluid over 8 hours. What is the infusion rate in mL/hr?",
+    "options": [],
+    "correct_answer": "125 mL/hr",
+    "rationale": "1000 mL \u00c3\u00b7 8 hr = 125 mL/hr.",
+    "full_question": "Stem: A patient is receiving 1000 mL of IV fluid over 8 hours. What is the infusion rate in mL/hr?\nCorrect Answer: 125 mL/hr\nRationale: 1000 mL \u00c3\u00b7 8 hr = 125 mL/hr."
+  },
+  {
+    "scenario": "A patient with a medication order",
+    "item_type": "Fill-in-the-Blank",
+    "stem": "A patient is prescribed 0.5 mg/kg of a medication and weighs 60 kg. How many mg should the nurse administer?",
+    "options": [],
+    "correct_answer": "30 mg",
+    "rationale": "0.5 mg/kg \u00c3\u2014 60 kg = 30 mg.",
+    "full_question": "Stem: A patient is prescribed 0.5 mg/kg of a medication and weighs 60 kg. How many mg should the nurse administer?\nCorrect Answer: 30 mg\nRationale: 0.5 mg/kg \u00c3\u2014 60 kg = 30 mg."
+  },
+  {
+    "scenario": "A patient with lung auscultation",
+    "item_type": "Hot Spot",
+    "stem": "A nurse is auscultating lung sounds. Identify the correct location for the lower lobes.",
+    "options": [],
+    "correct_answer": "Posterior chest, below the scapulae",
+    "rationale": "The lower lobes are best heard posteriorly.",
+    "full_question": "Stem: A nurse is auscultating lung sounds. Identify the correct location for the lower lobes.\nCorrect Answer: Posterior chest, below the scapulae\nRationale: The lower lobes are best heard posteriorly."
+  },
+  {
+    "scenario": "A patient with wound irrigation",
+    "item_type": "Ordered Response",
+    "stem": "A nurse is irrigating a wound. Place these steps in order:",
+    "options": [
+      "A) Fill syringe with saline",
+      "B) Direct saline into wound",
+      "C) Don gloves",
+      "D) Dry surrounding skin"
+    ],
+    "correct_answer": "C, A, B, D",
+    "rationale": "Glove, fill, irrigate, dry.",
+    "full_question": "Stem: A nurse is irrigating a wound. Place these steps in order:\nA) Fill syringe with saline\nB) Direct saline into wound\nC) Don gloves\nD) Dry surrounding skin\nCorrect Answer: C, A, B, D\nRationale: Glove, fill, irrigate, dry."
+  },
+  {
+    "scenario": "A patient with a urinalysis",
+    "item_type": "Exhibit",
+    "stem": "A nurse reviews a urinalysis. What does this suggest? Exhibit: Positive nitrites, WBCs present",
+    "options": [
+      "A) Urinary tract infection",
+      "B) Dehydration",
+      "C) Normal findings",
+      "D) Kidney stones"
+    ],
+    "correct_answer": "A) Urinary tract infection",
+    "rationale": "Nitrites and WBCs indicate bacterial infection.",
+    "full_question": "Stem: A nurse reviews a urinalysis. What does this suggest?\nExhibit: Positive nitrites, WBCs present\nA) Urinary tract infection\nB) Dehydration\nC) Normal findings\nD) Kidney stones\nCorrect Answer: A) Urinary tract infection\nRationale: Nitrites and WBCs indicate bacterial infection."
+  },
+  {
+    "scenario": "A patient with an ECG",
+    "item_type": "Graphic",
+    "stem": "Which ECG strip shows atrial fibrillation?",
+    "options": [
+      "A) Regular rhythm with P waves",
+      "B) Irregular rhythm without P waves",
+      "C) Regular rhythm with wide QRS",
+      "D) Sawtooth P waves"
+    ],
+    "correct_answer": "B) Irregular rhythm without P waves",
+    "rationale": "Atrial fibrillation lacks P waves and is irregular.",
+    "full_question": "Stem: Which ECG strip shows atrial fibrillation?\nA) Regular rhythm with P waves\nB) Irregular rhythm without P waves\nC) Regular rhythm with wide QRS\nD) Sawtooth P waves\nCorrect Answer: B) Irregular rhythm without P waves\nRationale: Atrial fibrillation lacks P waves and is irregular."
+  },
+  {
+    "scenario": "A patient with pulmonary edema",
+    "item_type": "Bow-Tie",
+    "stem": "For a patient with pulmonary edema, select two actions, two parameters, and two complications. Actions: Administer diuretics, Position upright, Provide oxygen, Restrict fluids Parameters: Oxygen saturation, Respiratory rate, Heart rate, Lung sounds Complications: Hypoxemia, Cardiac failure, Respiratory arrest, Fluid overload",
+    "options": [],
+    "correct_answer": "Actions: Administer diuretics, Provide oxygen; Parameters: Oxygen saturation, Lung sounds; Complications: Hypoxemia, Respiratory arrest",
+    "rationale": "Diuretics and oxygen reduce fluid and improve breathing; saturation and sounds guide care; hypoxemia and arrest are risks.",
+    "full_question": "Stem: For a patient with pulmonary edema, select two actions, two parameters, and two complications.\nActions: Administer diuretics, Position upright, Provide oxygen, Restrict fluids\nParameters: Oxygen saturation, Respiratory rate, Heart rate, Lung sounds\nComplications: Hypoxemia, Cardiac failure, Respiratory arrest, Fluid overload\nCorrect Answer: Actions: Administer diuretics, Provide oxygen; Parameters: Oxygen saturation, Lung sounds; Complications: Hypoxemia, Respiratory arrest\nRationale: Diuretics and oxygen reduce fluid and improve breathing; saturation and sounds guide care; hypoxemia and arrest are risks."
+  },
+  {
+    "scenario": "A patient with dehydration",
+    "item_type": "Bow-Tie",
+    "stem": "For a patient with dehydration, select two actions, two parameters, and two complications. Actions: Administer IV fluids, Encourage oral fluids, Monitor electrolytes, Apply cooling measures Parameters: Skin turgor, Blood pressure, Heart rate, Urine output Complications: Hypovolemic shock, Electrolyte imbalance, Renal failure, Seizures",
+    "options": [],
+    "correct_answer": "Actions: Administer IV fluids, Monitor electrolytes; Parameters: Blood pressure, Urine output; Complications: Hypovolemic shock, Renal failure",
+    "rationale": "Fluids and electrolytes correct dehydration; BP and output track response; shock and renal failure are risks.",
+    "full_question": "Stem: For a patient with dehydration, select two actions, two parameters, and two complications.\nActions: Administer IV fluids, Encourage oral fluids, Monitor electrolytes, Apply cooling measures\nParameters: Skin turgor, Blood pressure, Heart rate, Urine output\nComplications: Hypovolemic shock, Electrolyte imbalance, Renal failure, Seizures\nCorrect Answer: Actions: Administer IV fluids, Monitor electrolytes; Parameters: Blood pressure, Urine output; Complications: Hypovolemic shock, Renal failure\nRationale: Fluids and electrolytes correct dehydration; BP and output track response; shock and renal failure are risks."
+  },
+  {
+    "scenario": "A patient with chest pain",
+    "item_type": "Highlight Text",
+    "stem": "Highlight parts of this note indicating further assessment needed: Note: 'Patient reports chest pain for 2 hours and nausea. Denies shortness of breath. BP 130/80 mmHg.'",
+    "options": [],
+    "correct_answer": "'chest pain for 2 hours and nausea'",
+    "rationale": "Chest pain and nausea may suggest a cardiac issue requiring urgent evaluation.",
+    "full_question": "Stem: Highlight parts of this note indicating further assessment needed:\nNote: 'Patient reports chest pain for 2 hours and nausea. Denies shortness of breath. BP 130/80 mmHg.'\nCorrect Answer: 'chest pain for 2 hours and nausea'\nRationale: Chest pain and nausea may suggest a cardiac issue requiring urgent evaluation."
+  },
+  {
+    "scenario": "A patient with medication orders",
+    "item_type": "Highlight Text",
+    "stem": "Highlight parts of this order requiring clarification: Order: 'Administer digoxin 0.25 mg IV daily.'",
+    "options": [],
+    "correct_answer": "'IV'",
+    "rationale": "Digoxin is not typically given IV due to safety risks; it's usually PO.",
+    "full_question": "Stem: Highlight parts of this order requiring clarification:\nOrder: 'Administer digoxin 0.25 mg IV daily.'\nCorrect Answer: 'IV'\nRationale: Digoxin is not typically given IV due to safety risks; it's usually PO."
+  },
+  {
+    "scenario": "A patient with a fall",
+    "item_type": "Highlight Text",
+    "stem": "Highlight parts of this note indicating a complication: Note: 'Patient fell this morning. Complains of hip pain and unable to bear weight. No visible deformity.'",
+    "options": [],
+    "correct_answer": "'hip pain and unable to bear weight'",
+    "rationale": "These suggest a possible fracture needing further assessment.",
+    "full_question": "Stem: Highlight parts of this note indicating a complication:\nNote: 'Patient fell this morning. Complains of hip pain and unable to bear weight. No visible deformity.'\nCorrect Answer: 'hip pain and unable to bear weight'\nRationale: These suggest a possible fracture needing further assessment."
+  },
+  {
+    "scenario": "A patient with respiratory conditions",
+    "item_type": "Matrix/Grid",
+    "stem": "Indicate symptoms associated with Pneumonia and Asthma. Symptoms: Cough, Wheezing, Fever, Dyspnea, Chest pain Grid: - Pneumonia: Cough, Fever, Dyspnea, Chest pain - Asthma: Wheezing, Dyspnea",
+    "options": [],
+    "correct_answer": "As above",
+    "rationale": "Pneumonia involves cough and fever; asthma features wheezing.",
+    "full_question": "Stem: Indicate symptoms associated with Pneumonia and Asthma.\nSymptoms: Cough, Wheezing, Fever, Dyspnea, Chest pain\nGrid:\n- Pneumonia: Cough, Fever, Dyspnea, Chest pain\n- Asthma: Wheezing, Dyspnea\nCorrect Answer: As above\nRationale: Pneumonia involves cough and fever; asthma features wheezing."
+  },
+  {
+    "scenario": "A patient with glucose issues",
+    "item_type": "Matrix/Grid",
+    "stem": "Indicate interventions for Hypoglycemia and Hyperglycemia. Interventions: Administer insulin, Provide glucose, Monitor blood sugar, Encourage fluids Grid: - Hypoglycemia: Provide glucose, Monitor blood sugar - Hyperglycemia: Administer insulin, Monitor blood sugar, Encourage fluids",
+    "options": [],
+    "correct_answer": "As above",
+    "rationale": "Glucose treats low sugar; insulin and fluids treat high sugar.",
+    "full_question": "Stem: Indicate interventions for Hypoglycemia and Hyperglycemia.\nInterventions: Administer insulin, Provide glucose, Monitor blood sugar, Encourage fluids\nGrid:\n- Hypoglycemia: Provide glucose, Monitor blood sugar\n- Hyperglycemia: Administer insulin, Monitor blood sugar, Encourage fluids\nCorrect Answer: As above\nRationale: Glucose treats low sugar; insulin and fluids treat high sugar."
+  }
+]
